@@ -1,0 +1,1480 @@
+[
+  {
+    "title": "A Fast and Accurate Block Compression Solution for Spatiotemporal Kernel Density Visualization",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736821",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Beyond Fixed Variables: Expanding-variate Time Series Forecasting via Flat Scheme and Spatio-temporal Focal Learning",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "time-series",
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736854",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Bi-Modal Learning for Networked Time Series",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736856",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "BLAST: Balanced Sampling Time Series Corpus for Universal Forecasting Models",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "time-series",
+      "benchmark"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736860",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Blurred Encoding for Trajectory Representation Learning",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "other-time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736861",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "CAMEF: Causal-Augmented Multi-Modality Event-Driven Financial Forecasting by Integrating Time Series Patterns and Salient Macroeconomic Announcements",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "time-series",
+      "finance"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736872",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "CODA: Temporal Domain Generalization via Concept Drift Simulator",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "adaptation"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736883",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "CrossLinear: Plug-and-Play Cross-Correlation Embedding for Time Series Forecasting with Exogenous Variables",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736899",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Decoupling Spatio-Temporal Prediction: When Lightweight Large Models Meet Adaptive Hypergraphs",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736904",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Diffusion-Guided Diversity for Single Domain Generalization in Time Series Classification",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series",
+      "classification"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736909",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Does Vector Quantization Fail in Spatio-Temporal Forecasting? Exploring a Differentiable Sparse Soft-Vector Quantization Approach",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736914",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Enhancer: A Distribution-Aware Framework with Temporal-Relational Meta-Learning for Stock Prediction",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "finance"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736934",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Enhancing Microservices Anomaly Detection via Multimodal Data Fusion in the Wavelet Domain and Spatiotemporal Graph-based Diffusion Probabilistic Model",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "anomaly-detection",
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736938",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Equivariant and Invariant Message Passing for Global Subseasonal-to-seasonal Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736939",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Fine-Grained Traffic Inference from Road to Lane via Spatio-Temporal Graph Node Generation",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736961",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Fine-grained Urban Heat Island Effect Forecasting: A Context-aware Thermodynamic Modeling Framework",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736962",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "FreRA: A Frequency-Refined Augmentation for Contrastive Learning on Time Series Classification",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series",
+      "classification"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736969",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Fully Quanvolutional Networks for Time Series Classification",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series",
+      "classification"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736972",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Generalized Discords for Time Series Anomaly Detection with Flexible Subsequence Lengths",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series",
+      "anomaly-detection"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736977",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Generative Imputation with Multi-level Causal Consistency for Variable Subset Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "imputation"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736980",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "GPE: Global Position Embedding for Trajectory Similarity Computation",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "other-time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3736986",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Pre-training Time Series Models with Stock Data Customization",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series",
+      "finance"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737005",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Imputation via Domain Adaptation: Rethinking Variable Subset Forecasting from Knowledge Transfer",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "imputation",
+      "adaptation"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737007",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "other-time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737019",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Learning Reliable and Intuitive Temporal Logic Rules for Interpretable Time Series Classification",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series",
+      "classification"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737022",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Loss or Gain: Hierarchical Conditional Information Bottleneck Approach for Incomplete Time Series Classification",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series",
+      "classification"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737033",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Marionette: Fine-Grained Conditional Generative Modeling of Spatiotemporal Human Trajectory Data Beyond Imitation",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737039",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Merlin: Multi-View Representation Learning for Robust Multivariate Time Series Forecasting with Unfixed Missing Rates",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737046",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "MetaEformer: Unveiling and Leveraging Meta-Patterns for Complex and Dynamic Systems Load Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737047",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Mitigating Data Imbalance in Time Series Classification Based on Counterfactual Minority Samples Augmentation",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series",
+      "classification"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737049",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "MSHTrans: Multi-Scale Hypergraph Transformer with Time-Series Decomposition for Temporal Anomaly Detection",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "anomaly-detection"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737057",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "MTM: A Multi-Scale Token Mixing Transformer for Irregular Multivariate Time Series Classification",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series",
+      "classification"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737058",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Multi-scale Physics-informed Transformer With Spatio-temporal Feature Adapter For Extreme Precipitation Nowcasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737061",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Non-exchangeable Conformal Prediction for Temporal Graph Neural Networks",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "other-time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737064",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Offline Trajectory Optimization for Offline Reinforcement Learning",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "other-time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737066",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "On the Scalability of Temporal Relative Positional Encoding for Dynamic Link Prediction",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "other-time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737069",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Performative Time-Series Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737078",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Physics-Guided Learning of Meteorological Dynamics for Weather Downscaling and Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737081",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Robust and Explainable Detector of Time Series Anomaly via Augmenting Multiclass Pseudo-Anomalies",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series",
+      "anomaly-detection"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737110",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Sampling-guided Heterogeneous Graph Neural Network with Temporal Smoothing for Scalable Longitudinal Data Imputation",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "imputation"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737116",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "SDE: A Simplified and Disentangled Dependency Encoding Framework for State Space Models in Time Series Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737119",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Semantics-Aware Patch Encoding and Hierarchical Dependency Modeling for Long-Term Time Series Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737123",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "SSD-TS: Exploring the potential of linear state space models for diffusion models in time series imputation",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series",
+      "imputation"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737135",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Stochastic Diffusion: A Diffusion Based Model for Stochastic Time Series Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737137",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "TarDiff: Target-Oriented Diffusion Guidance for Synthetic Electronic Health Record Time Series Generation",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737147",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "TempASD: Temporal Anomalous Subgraph Discovery in Large-Scale Dynamic Financial Networks",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "finance"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737149",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Temporal Restoration and Spatial Rewiring for Source-Free Multivariate Time Series Domain Adaptation",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series",
+      "adaptation"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737150",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Test-Time Training with Diversified Local Aggregation Consistency for Mortality Prediction using Clinical Time Series",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737151",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "TIDFormer: Exploiting Temporal and Interactive Dynamics Makes A Great Dynamic Graph Transformer",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "other-time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737155",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "TimeCapsule: Solving the Jigsaw Puzzle of Long-Term Time Series Forecasting with Compressed Predictive Representations",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737157",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Toast: Task-Oriented Multi-dimensional Augmentation for Spatio-Temporal Trajectory Data",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737158",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Towards Trajectory Anomaly Detection: a Fine-Grained and Noise-Resilient Framework",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "anomaly-detection"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737164",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Track and Tweak: Monitoring and Improving Group Fairness for Temporal Graph Neural Networks in Real Time",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "other-time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737165",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Understanding Why Large Language Models Can Be Ineffective in Time Series Analysis: The Impact of Modality Alignment",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737169",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Unleashing The Power of Pre-Trained Language Models for Irregularly Sampled Time Series",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737171",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Unsupervised Time Series Anomaly Prediction with Importance-based Generative Contrastive Learning",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series",
+      "anomaly-detection"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737174",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "UrbanMind: Urban Dynamics Prediction with Multifaceted Spatial-Temporal Large Language Models",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "other-time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737177",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Utilizing Strategic Pre-training to Reduce Overfitting: Baguan – A Pre-trained Weather Forecasting Model",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737178",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Efficient Large-Scale Traffic Forecasting with Transformers: A Spatial Data Management Perspective",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709177",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Probabilistic Hypergraph Recurrent Neural Networks for Time-series Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709202",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Proactive Model Adaptation Against Concept Drift for Online Time Series Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "time-series",
+      "adaptation"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709210",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Brain Effective Connectivity Estimation via Fourier Spatiotemporal Attention",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709226",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Quantum Time-index Models with Reservoir for Time Series Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709228",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "CausalMob: Causal Human Mobility Prediction with LLMs-derived Human Intentions toward Public Events",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "other-time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709231",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Augmented Contrastive Clustering with Uncertainty-Aware Prototyping for Time Series Test Time Adaptation",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series",
+      "adaptation"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709239",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Conservation-informed Graph Learning for Spatiotemporal Dynamics Prediction",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709244",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "SCode: A Spherical Code Metric Learning Approach to Continuously Monitoring Predictive Events in Networked Data",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "other-time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709246",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "ST-MTM: Masked Time Series Modeling with Seasonal-Trend Decomposition for Time Series Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709254",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Noise-Resilient Point-wise Anomaly Detection in Time Series Using Weak Segment Labels",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series",
+      "anomaly-detection"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709257",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Conditional Generative Modeling for High-dimensional Marked Temporal Point Processes",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "other-time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709258",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "IN-Flow: Instance Normalization Flow for Non-stationary Time Series Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709260",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "time-series",
+      "anomaly-detection"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709266",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Grid and Road Expressions Are Complementary for Trajectory Representation Learning",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "other-time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709272",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "ProST: Prompt Future Snapshot on Dynamic Graphs for Spatio-Temporal Prediction",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709273",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "DistPred: A Distribution-Free Probabilistic Inference Method for Regression and Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709286",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Generalizable Recommender System During Temporal Popularity Distribution Shifts",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "sequential-recommendation"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709299",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "AutoSTF: Decoupled Neural Architecture Search for Cost-Effective Automated Spatio-Temporal Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709323",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709325",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Fast and Accurate Temporal Hypergraph Representation for Hyperedge Prediction",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "other-time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709327",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Learning Universal Multi-level Market Irrationality Factors to Improve Stock Return Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "finance"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709328",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "other-time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709329",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Dynamic Localisation of Spatial-Temporal Graph Neural Network",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "research",
+    "category": "time-series",
+    "keywords": [
+      "other-time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709331",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "A Transferable Spatio-temporal Learning Framework for Cross-city Logistics Demand Prediction",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "ads",
+    "category": "time-series",
+    "keywords": [
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737186",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "ASTNet: Asynchronous Spatio-Temporal Network for Large-Scale Chemical Sensor Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "ads",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737194",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "FRT: Flow-based Reconcile Transformer for Hierarchical Time Series",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "ads",
+    "category": "time-series",
+    "keywords": [
+      "time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737224",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Large Language Models can Deliver Accurate and Interpretable Time Series Anomaly Detection",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "ads",
+    "category": "time-series",
+    "keywords": [
+      "time-series",
+      "anomaly-detection"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737239",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "NRFormer: Nationwide Nuclear Radiation Forecasting with Spatio-Temporal Transformer",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "ads",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737252",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Timing is important: Risk-aware Fund Allocation based on Time-Series Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "ads",
+    "category": "time-series",
+    "keywords": [
+      "forecasting"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737268",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "UoMo: A Universal Model of Mobile Traffic Forecasting for Wireless Network Optimization",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "ads",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3711896.3737272",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "DynST: Dynamic Sparse Training for Resource-Constrained Spatio-Temporal Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "ads",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "spatiotemporal"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709391",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "TEMPER: Capturing Consistent and Fluctuating TEMPoral User Behaviour for EtheReum Phishing Scam Detection",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "ads",
+    "category": "time-series",
+    "keywords": [
+      "other-time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709399",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "ads",
+    "category": "time-series",
+    "keywords": [
+      "other-time-series"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709402",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "Multi-period Learning for Financial Time Series Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "ads",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "time-series",
+      "finance"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "https://doi.org/10.1145/3690624.3709422",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "EBES: Easy Benchmarking for Event Sequences",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "bench",
+    "category": "time-series",
+    "keywords": [
+      "benchmark"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "10.1145/3711896.3737428",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  },
+  {
+    "title": "TSFM-Bench: A Comprehensive and Unified Benchmark of Foundation Models for Time Series Forecasting",
+    "venue": "KDD",
+    "year": 2025,
+    "track": "bench",
+    "category": "time-series",
+    "keywords": [
+      "forecasting",
+      "time-series",
+      "benchmark"
+    ],
+    "source_type": "conference-page",
+    "paper_url": "10.1145/3711896.3737442",
+    "pdf_url": "",
+    "abstract": "",
+    "notes": "Abstract not auto-extracted yet; ACM page is protected by anti-bot checks."
+  }
+]

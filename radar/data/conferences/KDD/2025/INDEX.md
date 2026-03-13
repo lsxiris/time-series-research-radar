@@ -1,0 +1,193 @@
+# KDD 2025 时间序列论文索引
+
+## time-series
+- **A Fast and Accurate Block Compression Solution for Spatiotemporal Kernel Density Visualization**
+  - Keywords: spatiotemporal
+- **Beyond Fixed Variables: Expanding-variate Time Series Forecasting via Flat Scheme and Spatio-temporal Focal Learning**
+  - Keywords: forecasting, time-series, spatiotemporal
+- **Bi-Modal Learning for Networked Time Series**
+  - Keywords: time-series
+- **BLAST: Balanced Sampling Time Series Corpus for Universal Forecasting Models**
+  - Keywords: forecasting, time-series, benchmark
+- **Blurred Encoding for Trajectory Representation Learning**
+  - Keywords: other-time-series
+- **CAMEF: Causal-Augmented Multi-Modality Event-Driven Financial Forecasting by Integrating Time Series Patterns and Salient Macroeconomic Announcements**
+  - Keywords: forecasting, time-series, finance
+- **CODA: Temporal Domain Generalization via Concept Drift Simulator**
+  - Keywords: adaptation
+- **CrossLinear: Plug-and-Play Cross-Correlation Embedding for Time Series Forecasting with Exogenous Variables**
+  - Keywords: forecasting, time-series
+- **Decoupling Spatio-Temporal Prediction: When Lightweight Large Models Meet Adaptive Hypergraphs**
+  - Keywords: spatiotemporal
+- **Diffusion-Guided Diversity for Single Domain Generalization in Time Series Classification**
+  - Keywords: time-series, classification
+- **Does Vector Quantization Fail in Spatio-Temporal Forecasting? Exploring a Differentiable Sparse Soft-Vector Quantization Approach**
+  - Keywords: forecasting, spatiotemporal
+- **Enhancer: A Distribution-Aware Framework with Temporal-Relational Meta-Learning for Stock Prediction**
+  - Keywords: finance
+- **Enhancing Microservices Anomaly Detection via Multimodal Data Fusion in the Wavelet Domain and Spatiotemporal Graph-based Diffusion Probabilistic Model**
+  - Keywords: anomaly-detection, spatiotemporal
+- **Equivariant and Invariant Message Passing for Global Subseasonal-to-seasonal Forecasting**
+  - Keywords: forecasting
+- **Fine-Grained Traffic Inference from Road to Lane via Spatio-Temporal Graph Node Generation**
+  - Keywords: spatiotemporal
+- **Fine-grained Urban Heat Island Effect Forecasting: A Context-aware Thermodynamic Modeling Framework**
+  - Keywords: forecasting
+- **FreRA: A Frequency-Refined Augmentation for Contrastive Learning on Time Series Classification**
+  - Keywords: time-series, classification
+- **Fully Quanvolutional Networks for Time Series Classification**
+  - Keywords: time-series, classification
+- **Generalized Discords for Time Series Anomaly Detection with Flexible Subsequence Lengths**
+  - Keywords: time-series, anomaly-detection
+- **Generative Imputation with Multi-level Causal Consistency for Variable Subset Forecasting**
+  - Keywords: forecasting, imputation
+- **GPE: Global Position Embedding for Trajectory Similarity Computation**
+  - Keywords: other-time-series
+- **Pre-training Time Series Models with Stock Data Customization**
+  - Keywords: time-series, finance
+- **Imputation via Domain Adaptation: Rethinking Variable Subset Forecasting from Knowledge Transfer**
+  - Keywords: forecasting, imputation, adaptation
+- **Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision**
+  - Keywords: other-time-series
+- **Learning Reliable and Intuitive Temporal Logic Rules for Interpretable Time Series Classification**
+  - Keywords: time-series, classification
+- **Loss or Gain: Hierarchical Conditional Information Bottleneck Approach for Incomplete Time Series Classification**
+  - Keywords: time-series, classification
+- **Marionette: Fine-Grained Conditional Generative Modeling of Spatiotemporal Human Trajectory Data Beyond Imitation**
+  - Keywords: spatiotemporal
+- **Merlin: Multi-View Representation Learning for Robust Multivariate Time Series Forecasting with Unfixed Missing Rates**
+  - Keywords: forecasting, time-series
+- **MetaEformer: Unveiling and Leveraging Meta-Patterns for Complex and Dynamic Systems Load Forecasting**
+  - Keywords: forecasting
+- **Mitigating Data Imbalance in Time Series Classification Based on Counterfactual Minority Samples Augmentation**
+  - Keywords: time-series, classification
+- **MSHTrans: Multi-Scale Hypergraph Transformer with Time-Series Decomposition for Temporal Anomaly Detection**
+  - Keywords: anomaly-detection
+- **MTM: A Multi-Scale Token Mixing Transformer for Irregular Multivariate Time Series Classification**
+  - Keywords: time-series, classification
+- **Multi-scale Physics-informed Transformer With Spatio-temporal Feature Adapter For Extreme Precipitation Nowcasting**
+  - Keywords: spatiotemporal
+- **Non-exchangeable Conformal Prediction for Temporal Graph Neural Networks**
+  - Keywords: other-time-series
+- **Offline Trajectory Optimization for Offline Reinforcement Learning**
+  - Keywords: other-time-series
+- **On the Scalability of Temporal Relative Positional Encoding for Dynamic Link Prediction**
+  - Keywords: other-time-series
+- **Performative Time-Series Forecasting**
+  - Keywords: forecasting
+- **Physics-Guided Learning of Meteorological Dynamics for Weather Downscaling and Forecasting**
+  - Keywords: forecasting, spatiotemporal
+- **Robust and Explainable Detector of Time Series Anomaly via Augmenting Multiclass Pseudo-Anomalies**
+  - Keywords: time-series, anomaly-detection
+- **Sampling-guided Heterogeneous Graph Neural Network with Temporal Smoothing for Scalable Longitudinal Data Imputation**
+  - Keywords: imputation
+- **SDE: A Simplified and Disentangled Dependency Encoding Framework for State Space Models in Time Series Forecasting**
+  - Keywords: forecasting, time-series
+- **Semantics-Aware Patch Encoding and Hierarchical Dependency Modeling for Long-Term Time Series Forecasting**
+  - Keywords: forecasting, time-series
+- **SSD-TS: Exploring the potential of linear state space models for diffusion models in time series imputation**
+  - Keywords: time-series, imputation
+- **Stochastic Diffusion: A Diffusion Based Model for Stochastic Time Series Forecasting**
+  - Keywords: forecasting, time-series
+- **TarDiff: Target-Oriented Diffusion Guidance for Synthetic Electronic Health Record Time Series Generation**
+  - Keywords: time-series
+- **TempASD: Temporal Anomalous Subgraph Discovery in Large-Scale Dynamic Financial Networks**
+  - Keywords: finance
+- **Temporal Restoration and Spatial Rewiring for Source-Free Multivariate Time Series Domain Adaptation**
+  - Keywords: time-series, adaptation
+- **Test-Time Training with Diversified Local Aggregation Consistency for Mortality Prediction using Clinical Time Series**
+  - Keywords: time-series
+- **TIDFormer: Exploiting Temporal and Interactive Dynamics Makes A Great Dynamic Graph Transformer**
+  - Keywords: other-time-series
+- **TimeCapsule: Solving the Jigsaw Puzzle of Long-Term Time Series Forecasting with Compressed Predictive Representations**
+  - Keywords: forecasting, time-series
+- **Toast: Task-Oriented Multi-dimensional Augmentation for Spatio-Temporal Trajectory Data**
+  - Keywords: spatiotemporal
+- **Towards Trajectory Anomaly Detection: a Fine-Grained and Noise-Resilient Framework**
+  - Keywords: anomaly-detection
+- **Track and Tweak: Monitoring and Improving Group Fairness for Temporal Graph Neural Networks in Real Time**
+  - Keywords: other-time-series
+- **Understanding Why Large Language Models Can Be Ineffective in Time Series Analysis: The Impact of Modality Alignment**
+  - Keywords: time-series
+- **Unleashing The Power of Pre-Trained Language Models for Irregularly Sampled Time Series**
+  - Keywords: time-series
+- **Unsupervised Time Series Anomaly Prediction with Importance-based Generative Contrastive Learning**
+  - Keywords: time-series, anomaly-detection
+- **UrbanMind: Urban Dynamics Prediction with Multifaceted Spatial-Temporal Large Language Models**
+  - Keywords: other-time-series
+- **Utilizing Strategic Pre-training to Reduce Overfitting: Baguan – A Pre-trained Weather Forecasting Model**
+  - Keywords: forecasting, spatiotemporal
+- **Efficient Large-Scale Traffic Forecasting with Transformers: A Spatial Data Management Perspective**
+  - Keywords: forecasting, spatiotemporal
+- **Probabilistic Hypergraph Recurrent Neural Networks for Time-series Forecasting**
+  - Keywords: forecasting
+- **Proactive Model Adaptation Against Concept Drift for Online Time Series Forecasting**
+  - Keywords: forecasting, time-series, adaptation
+- **Brain Effective Connectivity Estimation via Fourier Spatiotemporal Attention**
+  - Keywords: spatiotemporal
+- **Quantum Time-index Models with Reservoir for Time Series Forecasting**
+  - Keywords: forecasting, time-series
+- **CausalMob: Causal Human Mobility Prediction with LLMs-derived Human Intentions toward Public Events**
+  - Keywords: other-time-series
+- **Augmented Contrastive Clustering with Uncertainty-Aware Prototyping for Time Series Test Time Adaptation**
+  - Keywords: time-series, adaptation
+- **Conservation-informed Graph Learning for Spatiotemporal Dynamics Prediction**
+  - Keywords: spatiotemporal
+- **SCode: A Spherical Code Metric Learning Approach to Continuously Monitoring Predictive Events in Networked Data**
+  - Keywords: other-time-series
+- **ST-MTM: Masked Time Series Modeling with Seasonal-Trend Decomposition for Time Series Forecasting**
+  - Keywords: forecasting, time-series
+- **Noise-Resilient Point-wise Anomaly Detection in Time Series Using Weak Segment Labels**
+  - Keywords: time-series, anomaly-detection
+- **Conditional Generative Modeling for High-dimensional Marked Temporal Point Processes**
+  - Keywords: other-time-series
+- **IN-Flow: Instance Normalization Flow for Non-stationary Time Series Forecasting**
+  - Keywords: forecasting, time-series
+- **TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection**
+  - Keywords: time-series, anomaly-detection
+- **Grid and Road Expressions Are Complementary for Trajectory Representation Learning**
+  - Keywords: other-time-series
+- **ProST: Prompt Future Snapshot on Dynamic Graphs for Spatio-Temporal Prediction**
+  - Keywords: spatiotemporal
+- **DistPred: A Distribution-Free Probabilistic Inference Method for Regression and Forecasting**
+  - Keywords: forecasting
+- **Generalizable Recommender System During Temporal Popularity Distribution Shifts**
+  - Keywords: sequential-recommendation
+- **AutoSTF: Decoupled Neural Architecture Search for Cost-Effective Automated Spatio-Temporal Forecasting**
+  - Keywords: forecasting, spatiotemporal
+- **DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting**
+  - Keywords: forecasting, time-series
+- **Fast and Accurate Temporal Hypergraph Representation for Hyperedge Prediction**
+  - Keywords: other-time-series
+- **Learning Universal Multi-level Market Irrationality Factors to Improve Stock Return Forecasting**
+  - Keywords: forecasting, finance
+- **CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**
+  - Keywords: other-time-series
+- **Dynamic Localisation of Spatial-Temporal Graph Neural Network**
+  - Keywords: other-time-series
+- **A Transferable Spatio-temporal Learning Framework for Cross-city Logistics Demand Prediction**
+  - Keywords: spatiotemporal
+- **ASTNet: Asynchronous Spatio-Temporal Network for Large-Scale Chemical Sensor Forecasting**
+  - Keywords: forecasting, spatiotemporal
+- **FRT: Flow-based Reconcile Transformer for Hierarchical Time Series**
+  - Keywords: time-series
+- **Large Language Models can Deliver Accurate and Interpretable Time Series Anomaly Detection**
+  - Keywords: time-series, anomaly-detection
+- **NRFormer: Nationwide Nuclear Radiation Forecasting with Spatio-Temporal Transformer**
+  - Keywords: forecasting, spatiotemporal
+- **Timing is important: Risk-aware Fund Allocation based on Time-Series Forecasting**
+  - Keywords: forecasting
+- **UoMo: A Universal Model of Mobile Traffic Forecasting for Wireless Network Optimization**
+  - Keywords: forecasting, spatiotemporal
+- **DynST: Dynamic Sparse Training for Resource-Constrained Spatio-Temporal Forecasting**
+  - Keywords: forecasting, spatiotemporal
+- **TEMPER: Capturing Consistent and Fluctuating TEMPoral User Behaviour for EtheReum Phishing Scam Detection**
+  - Keywords: other-time-series
+- **SepsisCalc: Integrating Clinical Calculators into Early Sepsis Prediction via Dynamic Temporal Graph Construction**
+  - Keywords: other-time-series
+- **Multi-period Learning for Financial Time Series Forecasting**
+  - Keywords: forecasting, time-series, finance
+- **EBES: Easy Benchmarking for Event Sequences**
+  - Keywords: benchmark
+- **TSFM-Bench: A Comprehensive and Unified Benchmark of Foundation Models for Time Series Forecasting**
+  - Keywords: forecasting, time-series, benchmark

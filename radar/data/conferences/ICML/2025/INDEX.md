@@ -1,0 +1,807 @@
+# ICML 2025 时间序列论文索引
+
+## time-series
+- **Inverse Problem Sampling in Latent Space Using Sequential Monte Carlo**
+  - OpenReview: https://openreview.net/forum?id=mWKCajTUUu
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/achituve25a/achituve25a.pdf
+  - Keywords: other-time-series
+- **Gridded Transformer Neural Processes for Spatio-Temporal Data**
+  - OpenReview: https://openreview.net/forum?id=O0oe7hPtbl
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/ashman25a/ashman25a.pdf
+  - Keywords: spatiotemporal
+- **Adaptive Estimation and Learning under Temporal Distribution Shift**
+  - OpenReview: https://openreview.net/forum?id=JgbrkAJHDZ
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/baby25a/baby25a.pdf
+  - Keywords: other-time-series
+- **KoNODE: Koopman-Driven Neural Ordinary Differential Equations with Evolving Parameters for Time Series Analysis**
+  - OpenReview: https://openreview.net/forum?id=GzFKZctIzj
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/bai25b/bai25b.pdf
+  - Keywords: time-series
+- **Causal Discovery from Conditionally Stationary Time Series**
+  - OpenReview: https://openreview.net/forum?id=j88QAtutwW
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/balsells-rodas25a/balsells-rodas25a.pdf
+  - Keywords: time-series, causal
+- **AdaPTS: Adapting Univariate Foundation Models to Probabilistic Multivariate Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=yeICCRy3lE
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/benechehab25a/benechehab25a.pdf
+  - Keywords: forecasting, time-series, foundation-models
+- **Multi-Objective Causal Bayesian Optimization**
+  - OpenReview: https://openreview.net/forum?id=sDGafRLNQa
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/bhatija25a/bhatija25a.pdf
+  - Keywords: causal
+- **Temporal Misalignment in ANN-SNN Conversion and its Mitigation via Probabilistic Spiking Neurons**
+  - OpenReview: https://openreview.net/forum?id=Kip4avTjth
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/bojkovic25a/bojkovic25a.pdf
+  - Keywords: other-time-series
+- **Integer Programming for Generalized Causal Bootstrap Designs**
+  - OpenReview: https://openreview.net/forum?id=PIqtU1SgUR
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/brennan25a/brennan25a.pdf
+  - Keywords: causal
+- **Generating Hypotheses of Dynamic Causal Graphs in Neuroscience: Leveraging Generative Factor Models of Observed Time Series**
+  - OpenReview: https://openreview.net/forum?id=WaJB9V2fIy
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/brown25a/brown25a.pdf
+  - Keywords: time-series, causal
+- **ProDiff: Prototype-Guided Diffusion for Minimal Information Trajectory Imputation**
+  - OpenReview: https://openreview.net/forum?id=9rG2oAWj0s
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/bu25d/bu25d.pdf
+  - Keywords: imputation, diffusion
+- **Understanding the Limits of Deep Tabular Methods with Temporal Shift**
+  - OpenReview: https://openreview.net/forum?id=5MiSZuBLmq
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/cai25j/cai25j.pdf
+  - Keywords: other-time-series
+- **A Closer Look at Transformers for Time Series Forecasting: Understanding Why They Work and Where They Struggle**
+  - OpenReview: https://openreview.net/forum?id=kHEVCfES4Q
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/chen25f/chen25f.pdf
+  - Keywords: forecasting, time-series
+- **A Chaotic Dynamics Framework Inspired by Dorsal Stream for Event Signal Processing**
+  - OpenReview: https://openreview.net/forum?id=vCtyqomphj
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/chen25am/chen25am.pdf
+  - Keywords: other-time-series
+- **Information Bottleneck-guided MLPs for Robust Spatial-temporal Forecasting**
+  - OpenReview: https://openreview.net/forum?id=pqSLcEbk5X
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/chen25ax/chen25ax.pdf
+  - Keywords: forecasting
+- **VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters**
+  - OpenReview: https://openreview.net/forum?id=5DSj3MfWrB
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/chen25be/chen25be.pdf
+  - Keywords: forecasting, time-series, foundation-models
+- **Unbiased Evaluation of Large Language Models from a Causal Perspective**
+  - OpenReview: https://openreview.net/forum?id=ETIsFhZwhJ
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/chen25bi/chen25bi.pdf
+  - Keywords: causal
+- **Causal Logistic Bandits with Counterfactual Fairness Constraints**
+  - OpenReview: https://openreview.net/forum?id=1N4Y0Yj8th
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/chen25bk/chen25bk.pdf
+  - Keywords: causal
+- **Online Detection of LLM-Generated Texts via Sequential Hypothesis Testing by Betting**
+  - OpenReview: https://openreview.net/forum?id=khFk7sdv9o
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/chen25bn/chen25bn.pdf
+  - Keywords: other-time-series
+- **FIC-TSC: Learning Time Series Classification with Fisher Information Constraint**
+  - OpenReview: https://openreview.net/forum?id=Dr8msCnFYw
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/chen25cq/chen25cq.pdf
+  - Keywords: time-series, classification
+- **Relational Conformal Prediction for Correlated Time Series**
+  - OpenReview: https://openreview.net/forum?id=wwYDQ1vXcZ
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/cini25a/cini25a.pdf
+  - Keywords: time-series, uncertainty
+- **Winner-takes-all for Multivariate Probabilistic Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=4QcFfTu6UT
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/cortes25b/cortes25b.pdf
+  - Keywords: forecasting, time-series
+- **Causal Abstraction Learning based on the Semantic Embedding Principle**
+  - OpenReview: https://openreview.net/forum?id=J16AIOkjjY
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/d-acunto25a/d-acunto25a.pdf
+  - Keywords: causal, representation
+- **EnsLoss: Stochastic Calibrated Loss Ensembles for Preventing Overfitting in Classification**
+  - OpenReview: https://openreview.net/forum?id=wP8meX6uJC
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/dai25d/dai25d.pdf
+  - Keywords: classification
+- **MemFreezing: A Novel Adversarial Attack on Temporal Graph Neural Networks under Limited Future Knowledge**
+  - OpenReview: https://openreview.net/forum?id=qbwR36zHsB
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/dai25j/dai25j.pdf
+  - Keywords: other-time-series
+- **Latent Variable Causal Discovery under Selection Bias**
+  - OpenReview: https://openreview.net/forum?id=W9YdVrSJIh
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/dai25k/dai25k.pdf
+  - Keywords: causal
+- **Shifting Time: Time-series Forecasting with Khatri-Rao Neural Operators**
+  - OpenReview: https://openreview.net/forum?id=emkdmORaj4
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/dama25a/dama25a.pdf
+  - Keywords: forecasting
+- **Continuous Bayesian Model Selection for Multivariate Causal Discovery**
+  - OpenReview: https://openreview.net/forum?id=zydNWJzoVd
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/dhir25a/dhir25a.pdf
+  - Keywords: causal
+- **LBI-FL: Low-Bit Integerized Federated Learning with Temporally Dynamic Bit-Width Allocation**
+  - OpenReview: https://openreview.net/forum?id=li59703WbA
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/ding25e/ding25e.pdf
+  - Keywords: other-time-series
+- **Permutation-based Rank Test in the Presence of Discretization and Application in Causal Discovery with Mixed Data**
+  - OpenReview: https://openreview.net/forum?id=VBTHduhm4K
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/dong25i/dong25i.pdf
+  - Keywords: causal
+- **Towards Theoretical Understanding of Sequential Decision Making with Preference Feedback**
+  - OpenReview: https://openreview.net/forum?id=SqnViOBHP0
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/drago25b/drago25b.pdf
+  - Keywords: other-time-series
+- **Solving Linear-Gaussian Bayesian Inverse Problems with Decoupled Diffusion Sequential Monte Carlo**
+  - OpenReview: https://openreview.net/forum?id=QRNpmG8XGd
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/ekstrom-kelvinius25b/ekstrom-kelvinius25b.pdf
+  - Keywords: diffusion
+- **Grammar-Forced Translation of Natural Language to Temporal Logic using LLMs**
+  - OpenReview: https://openreview.net/forum?id=p411a7WHox
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/english25a/english25a.pdf
+  - Keywords: other-time-series
+- **Distributed Event-Based Learning via ADMM**
+  - OpenReview: https://openreview.net/forum?id=qLwQuLQHwL
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/er25a/er25a.pdf
+  - Keywords: other-time-series
+- **SAH-Drive: A Scenario-Aware Hybrid Planner for Closed-Loop Vehicle Trajectory Generation**
+  - OpenReview: https://openreview.net/forum?id=OYbZWmNHwn
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/fan25c/fan25c.pdf
+  - Keywords: other-time-series
+- **Temporal Difference Flows**
+  - OpenReview: https://openreview.net/forum?id=j6H7c3aQyb
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/farebrother25a/farebrother25a.pdf
+  - Keywords: other-time-series
+- **A New Approach to Backtracking Counterfactual Explanations: A Unified Causal Framework for Efficient Model Interpretability**
+  - OpenReview: https://openreview.net/forum?id=7DVmEc7c1u
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/fatemi25a/fatemi25a.pdf
+  - Keywords: causal
+- **CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features**
+  - OpenReview: https://openreview.net/forum?id=JZIJxr9KsO
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/feng25t/feng25t.pdf
+  - Keywords: spatiotemporal
+- **LSCD: Lomb–Scargle Conditioned Diffusion for Time series Imputation**
+  - OpenReview: https://openreview.net/forum?id=GdYg0Ohx0k
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/fons25a/fons25a.pdf
+  - Keywords: time-series, imputation, diffusion
+- **Less is More: Federated Graph Learning with Alleviating Topology Heterogeneity from A Causal Perspective**
+  - OpenReview: https://openreview.net/forum?id=wleRTUQj07
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/fu25a/fu25a.pdf
+  - Keywords: causal
+- **Sanity Checking Causal Representation Learning on a Simple Real-World System**
+  - OpenReview: https://openreview.net/forum?id=d2aGLPSpFz
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/gamella25a/gamella25a.pdf
+  - Keywords: causal, representation
+- **Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing**
+  - OpenReview: https://openreview.net/forum?id=YbtH1aoE1V
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/gao25m/gao25m.pdf
+  - Keywords: causal, diffusion
+- **LLM Enhancers for GNNs: An Analysis from the Perspective of Causal Mechanism Identification**
+  - OpenReview: https://openreview.net/forum?id=UWTz4ai3FZ
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/gao25o/gao25o.pdf
+  - Keywords: causal
+- **OneForecast: A Universal Framework for Global and Regional Weather Forecasting**
+  - OpenReview: https://openreview.net/forum?id=9xGSeVolcN
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/gao25r/gao25r.pdf
+  - Keywords: forecasting, spatiotemporal
+- **Time Series Representations with Hard-Coded Invariances**
+  - OpenReview: https://openreview.net/forum?id=SaKPKyjDp6
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/germain25a/germain25a.pdf
+  - Keywords: time-series, representation
+- **Efficient Time Series Processing for Transformers and State-Space Models through Token Merging**
+  - OpenReview: https://openreview.net/forum?id=Y2FyXF5hRe
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/gotz25a/gotz25a.pdf
+  - Keywords: time-series
+- **VerbalTS: Generating Time Series from Texts**
+  - OpenReview: https://openreview.net/forum?id=KaukiEQcbk
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/gu25a/gu25a.pdf
+  - Keywords: time-series
+- **TeDS: Joint Learning of Diachronic and Synchronic Perspectives in Quaternion Space for Temporal Knowledge Graph Completion**
+  - OpenReview: https://openreview.net/forum?id=rWUV8Pti9x
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/guo25u/guo25u.pdf
+  - Keywords: other-time-series
+- **LAST SToP for Modeling Asynchronous Time Series**
+  - OpenReview: https://openreview.net/forum?id=TpP47EH1xG
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/gupta25a/gupta25a.pdf
+  - Keywords: time-series
+- **Retrieval Augmented Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=GUDnecJdJU
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/han25d/han25d.pdf
+  - Keywords: forecasting, time-series
+- **Double Machine Learning for Causal Inference under Shared-State Interference**
+  - OpenReview: https://openreview.net/forum?id=fkrEgiR165
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/hays25a/hays25a.pdf
+  - Keywords: causal
+- **Learning Time-Aware Causal Representation for Model Generalization in Evolving Domains**
+  - OpenReview: https://openreview.net/forum?id=KhCKypSaqx
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/he25j/he25j.pdf
+  - Keywords: causal, representation
+- **Neurosymbolic World Models for Sequential Decision Making**
+  - OpenReview: https://openreview.net/forum?id=qkeYxpB9w0
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/hernandez-cano25a/hernandez-cano25a.pdf
+  - Keywords: other-time-series
+- **Decision-aware Training of Spatiotemporal Forecasting Models to Select a Top-K Subset of Sites for Intervention**
+  - OpenReview: https://openreview.net/forum?id=8eQKjsVnN3
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/heuton25a/heuton25a.pdf
+  - Keywords: forecasting, spatiotemporal
+- **Trajectory Inference with Smooth Schrödinger Bridges**
+  - OpenReview: https://openreview.net/forum?id=GHyvvWu1XC
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/hong25f/hong25f.pdf
+  - Keywords: other-time-series
+- **Dynamical Modeling of Behaviorally Relevant Spatiotemporal Patterns in Neural Imaging Data**
+  - OpenReview: https://openreview.net/forum?id=k4KVhQd19x
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/hosseini25a/hosseini25a.pdf
+  - Keywords: spatiotemporal
+- **Efficient Length-Generalizable Attention via Causal Retrieval for Long-Context Language Modeling**
+  - OpenReview: https://openreview.net/forum?id=6HVcoIbZoC
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/hu25v/hu25v.pdf
+  - Keywords: causal
+- **IMTS is Worth Time $\times$ Channel Patches: Visual Masked Autoencoders for Irregular Multivariate Time Series Prediction**
+  - OpenReview: https://openreview.net/forum?id=2mnZ7AjMim
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/hu25y/hu25y.pdf
+  - Keywords: time-series
+- **TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=490VcNtjh7
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/hu25ac/hu25ac.pdf
+  - Keywords: forecasting, time-series
+- **$\mathcalVista\mathcalDPO$: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models**
+  - OpenReview: https://openreview.net/forum?id=O2jukIZR50
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/huang25g/huang25g.pdf
+  - Keywords: other-time-series
+- **Automated Hypothesis Validation with Agentic Sequential Falsifications**
+  - OpenReview: https://openreview.net/forum?id=iTevNo8PzG
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/huang25n/huang25n.pdf
+  - Keywords: other-time-series
+- **TCP-Diffusion: A Multi-modal Diffusion Model for Global Tropical Cyclone Precipitation Forecasting with Change Awareness**
+  - OpenReview: https://openreview.net/forum?id=9cOtYlD5UA
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/huang25y/huang25y.pdf
+  - Keywords: forecasting, diffusion
+- **Internal Causal Mechanisms Robustly Predict Language Model Out-of-Distribution Behaviors**
+  - OpenReview: https://openreview.net/forum?id=Ofa1cspTrv
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/huang25af/huang25af.pdf
+  - Keywords: causal
+- **TimeBase: The Power of Minimalism in Efficient Long-term Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=GhTdNOMfOD
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/huang25az/huang25az.pdf
+  - Keywords: forecasting, time-series
+- **Imitation Learning from a Single Temporally Misaligned Video**
+  - OpenReview: https://openreview.net/forum?id=YV05KZt7v2
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/huey25a/huey25a.pdf
+  - Keywords: other-time-series
+- **TIMING: Temporality-Aware Integrated Gradients for Time Series Explanation**
+  - OpenReview: https://openreview.net/forum?id=qOgKMqv9T7
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/jang25a/jang25a.pdf
+  - Keywords: time-series
+- **Multi-Armed Bandits with Interference: Bridging Causal Inference and Adversarial Bandits**
+  - OpenReview: https://openreview.net/forum?id=3YTjTQhX8B
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/jia25b/jia25b.pdf
+  - Keywords: causal
+- **FSTLLM: Spatio-Temporal LLM for Few Shot Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=oyoiHf51es
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/jiang25a/jiang25a.pdf
+  - Keywords: forecasting, time-series, spatiotemporal
+- **CateKV: On Sequential Consistency for Long-Context LLM Inference Acceleration**
+  - OpenReview: https://openreview.net/forum?id=u7dlwgKstN
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/jiang25e/jiang25e.pdf
+  - Keywords: other-time-series
+- **Falsification of Unconfoundedness by Testing Independence of Causal Mechanisms**
+  - OpenReview: https://openreview.net/forum?id=kONwjsPKcI
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/karlsson25a/karlsson25a.pdf
+  - Keywords: causal
+- **Hierarchical Reinforcement Learning with Targeted Causal Interventions**
+  - OpenReview: https://openreview.net/forum?id=fWv0aGD1Xu
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/khorasani25a/khorasani25a.pdf
+  - Keywords: causal
+- **TransPL: VQ-Code Transition Matrices for Pseudo-Labeling of Time Series Unsupervised Domain Adaptation**
+  - OpenReview: https://openreview.net/forum?id=0AUltNAxjP
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/kim25w/kim25w.pdf
+  - Keywords: time-series
+- **Causality-Aware Contrastive Learning for Robust Multivariate Time-Series Anomaly Detection**
+  - OpenReview: https://openreview.net/forum?id=EGpueKe6TP
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/kim25aa/kim25aa.pdf
+  - Keywords: anomaly-detection, causal
+- **Tuning Sequential Monte Carlo Samplers via Greedy Incremental Divergence Minimization**
+  - OpenReview: https://openreview.net/forum?id=Pj3vkXJvKg
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/kim25ak/kim25ak.pdf
+  - Keywords: other-time-series
+- **Preference Learning for AI Alignment: a Causal Perspective**
+  - OpenReview: https://openreview.net/forum?id=iuD649wPAw
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/kobalczyk25a/kobalczyk25a.pdf
+  - Keywords: causal
+- **CFPT: Empowering Time Series Forecasting through Cross-Frequency Interaction and Periodic-Aware Timestamp Modeling**
+  - OpenReview: https://openreview.net/forum?id=hHYjiOJFum
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/kou25b/kou25b.pdf
+  - Keywords: forecasting, time-series
+- **Patch-wise Structural Loss for Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=p1KkW2kgDp
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/kudrat25a/kudrat25a.pdf
+  - Keywords: forecasting, time-series
+- **Robust and Conjugate Spatio-Temporal Gaussian Processes**
+  - OpenReview: https://openreview.net/forum?id=YG84SWm7gn
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/laplante25a/laplante25a.pdf
+  - Keywords: spatiotemporal
+- **Temporal Distance-aware Transition Augmentation for Offline Model-based Reinforcement Learning**
+  - OpenReview: https://openreview.net/forum?id=drBVowFvqf
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/lee25p/lee25p.pdf
+  - Keywords: other-time-series
+- **Multidimensional Adaptive Coefficient for Inference Trajectory Optimization in Flow and Diffusion**
+  - OpenReview: https://openreview.net/forum?id=VD4rLMrHXZ
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/lee25ac/lee25ac.pdf
+  - Keywords: diffusion
+- **Channel Normalization for Time Series Channel Identification**
+  - OpenReview: https://openreview.net/forum?id=PqpPrlAQqa
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/lee25ad/lee25ad.pdf
+  - Keywords: time-series
+- **Lightweight Online Adaption for Time Series Foundation Model Forecasts**
+  - OpenReview: https://openreview.net/forum?id=gAxYbvoOQz
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/lee25ag/lee25ag.pdf
+  - Keywords: forecasting, time-series, foundation-models
+- **One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation**
+  - OpenReview: https://openreview.net/forum?id=riYSkLG0vt
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/li25a/li25a.pdf
+  - Keywords: diffusion
+- **Transformer-Based Spatial-Temporal Counterfactual Outcomes Estimation**
+  - OpenReview: https://openreview.net/forum?id=YVU391OrrK
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/li25g/li25g.pdf
+  - Keywords: other-time-series
+- **One Arrow, Two Hawks: Sharpness-aware Minimization for Federated Learning via Global Model Trajectory**
+  - OpenReview: https://openreview.net/forum?id=80mK2Mqaph
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/li25bd/li25bd.pdf
+  - Keywords: other-time-series
+- **Local Identifying Causal Relations in the Presence of Latent Variables**
+  - OpenReview: https://openreview.net/forum?id=O6q2BHK1BL
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/li25bg/li25bg.pdf
+  - Keywords: causal
+- **HyperIMTS: Hypergraph Neural Network for Irregular Multivariate Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=u8wRbX2r2V
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/li25bl/li25bl.pdf
+  - Keywords: forecasting, time-series
+- **Strong and Weak Identifiability of Optimization-based Causal Discovery in Non-linear Additive Noise Models**
+  - OpenReview: https://openreview.net/forum?id=sgHza4bz3n
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/li25bx/li25bx.pdf
+  - Keywords: causal
+- **Generalizing Causal Effects from Randomized Controlled Trials to Target Populations across Diverse Environments**
+  - OpenReview: https://openreview.net/forum?id=bHCio4Pg7e
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/li25cr/li25cr.pdf
+  - Keywords: causal
+- **BinauralFlow: A Causal and Streamable Approach for High-Quality Binaural Speech Synthesis with Flow Matching Models**
+  - OpenReview: https://openreview.net/forum?id=992yMPvMqV
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/liang25k/liang25k.pdf
+  - Keywords: causal
+- **Temporal Query Network for Efficient Multivariate Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=e24CueVty2
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/lin25e/lin25e.pdf
+  - Keywords: forecasting, time-series
+- **Tightening Causal Bounds via Covariate-Aware Optimal Transport**
+  - OpenReview: https://openreview.net/forum?id=SwMjcC5owE
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/lin25f/lin25f.pdf
+  - Keywords: causal
+- **Isolated Causal Effects of Natural Language**
+  - OpenReview: https://openreview.net/forum?id=Z0jnz149L1
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/lin25k/lin25k.pdf
+  - Keywords: causal
+- **A Selective Learning Method for Temporal Graph Continual Learning**
+  - OpenReview: https://openreview.net/forum?id=BKnssDRh7d
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/liu25l/liu25l.pdf
+  - Keywords: other-time-series
+- **Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts**
+  - OpenReview: https://openreview.net/forum?id=SrEOUSyJcR
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/liu25an/liu25an.pdf
+  - Keywords: time-series, foundation-models
+- **Sundial: A Family of Highly Capable Time Series Foundation Models**
+  - OpenReview: https://openreview.net/forum?id=LO7ciRpjI5
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/liu25be/liu25be.pdf
+  - Keywords: time-series, foundation-models
+- **Generative Human Trajectory Recovery via Embedding-Space Conditional Diffusion**
+  - OpenReview: https://openreview.net/forum?id=QW6f72tutX
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/liu25bg/liu25bg.pdf
+  - Keywords: representation, diffusion
+- **Slimming the Fat-Tail: Morphing-Flow for Adaptive Time Series Modeling**
+  - OpenReview: https://openreview.net/forum?id=gwlJgoq5QZ
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/liu25bq/liu25bq.pdf
+  - Keywords: time-series
+- **Spectral-Aware Reservoir Computing for Fast and Accurate Time Series Classification**
+  - OpenReview: https://openreview.net/forum?id=DmPW0pO3F3
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/liu25by/liu25by.pdf
+  - Keywords: time-series, classification
+- **TimeBridge: Non-Stationarity Matters for Long-term Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=pyKO0ZZ5lz
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/liu25cb/liu25cb.pdf
+  - Keywords: forecasting, time-series
+- **TimeStacker: A Novel Framework with Multilevel Observation for Capturing Nonstationary Patterns in Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=5RYSqSKz9b
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/liu25ch/liu25ch.pdf
+  - Keywords: forecasting, time-series
+- **Can Biologically Plausible Temporal Credit Assignment Rules Match BPTT for Neural Similarity? E-prop as an Example**
+  - OpenReview: https://openreview.net/forum?id=o877aFqlvK
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/liu25cl/liu25cl.pdf
+  - Keywords: other-time-series
+- **Breaking Silos: Adaptive Model Fusion Unlocks Better Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=sdFRCRk1pP
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/liu25cm/liu25cm.pdf
+  - Keywords: forecasting, time-series
+- **SynEVO: A neuro-inspired spatiotemporal evolutional framework for cross-domain adaptation**
+  - OpenReview: https://openreview.net/forum?id=Q3rGQUGgWo
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/liu25co/liu25co.pdf
+  - Keywords: spatiotemporal
+- **STD-FD: Spatio-Temporal Distribution Fitting Deviation for AIGC Forgery Identification**
+  - OpenReview: https://openreview.net/forum?id=SGnjO72L95
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/lou25a/lou25a.pdf
+  - Keywords: spatiotemporal
+- **WAVE: Weighted Autoregressive Varying Gate for Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=Qqn5ktBUxH
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/lu25d/lu25d.pdf
+  - Keywords: forecasting, time-series
+- **Linear Transformers as VAR Models: Aligning Autoregressive Attention Mechanisms with Autoregressive Forecasting**
+  - OpenReview: https://openreview.net/forum?id=SxJUV9mnyt
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/lu25r/lu25r.pdf
+  - Keywords: forecasting
+- **Sparse Causal Discovery with Generative Intervention for Unsupervised Graph Domain Adaptation**
+  - OpenReview: https://openreview.net/forum?id=Rab1LXJKLp
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/luo25j/luo25j.pdf
+  - Keywords: causal
+- **Causal Attribution Analysis for Continuous Outcomes**
+  - OpenReview: https://openreview.net/forum?id=Lie2rOCgkh
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/luo25q/luo25q.pdf
+  - Keywords: causal
+- **Hi-Patch: Hierarchical Patch GNN for Irregular Multivariate Time Series**
+  - OpenReview: https://openreview.net/forum?id=nBgQ66iEUu
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/luo25r/luo25r.pdf
+  - Keywords: time-series
+- **TimePro: Efficient Multivariate Long-term Time Series Forecasting with Variable- and Time-Aware Hyper-state**
+  - OpenReview: https://openreview.net/forum?id=s69Ei2VrIW
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/ma25p/ma25p.pdf
+  - Keywords: forecasting, time-series
+- **Robust Spatio-Temporal Centralized Interaction for OOD Learning**
+  - OpenReview: https://openreview.net/forum?id=q6ba0bZfpl
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/ma25s/ma25s.pdf
+  - Keywords: spatiotemporal
+- **Compositional Causal Reasoning Evaluation in Language Models**
+  - OpenReview: https://openreview.net/forum?id=OJ3dQNRnsx
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/maasch25a/maasch25a.pdf
+  - Keywords: causal
+- **LETS Forecast: Learning Embedology for Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=LLk1qYQatJ
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/majeedi25a/majeedi25a.pdf
+  - Keywords: forecasting, time-series
+- **Regret-Free Reinforcement Learning for Temporal Logic Specifications**
+  - OpenReview: https://openreview.net/forum?id=SqhhqMbqV3
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/majumdar25a/majumdar25a.pdf
+  - Keywords: other-time-series
+- **Enhancing Foundation Models for Time Series Forecasting via Wavelet-based Tokenization**
+  - OpenReview: https://openreview.net/forum?id=B6WalMoQJW
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/masserano25a/masserano25a.pdf
+  - Keywords: forecasting, time-series, foundation-models
+- **Heterogeneous Treatment Effect in Time-to-Event Outcomes: Harnessing Censored Data with Recursively Imputed Trees**
+  - OpenReview: https://openreview.net/forum?id=OrkMLgWoiG
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/meir25a/meir25a.pdf
+  - Keywords: other-time-series
+- **TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching**
+  - OpenReview: https://openreview.net/forum?id=9NmdppWbXi
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/meng25b/meng25b.pdf
+  - Keywords: other-time-series
+- **Causal-PIK: Causality-based Physical Reasoning with a Physics-Informed Kernel**
+  - OpenReview: https://openreview.net/forum?id=QgSfbgzgbH
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/morlans25a/morlans25a.pdf
+  - Keywords: causal
+- **Preference Adaptive and Sequential Text-to-Image Generation**
+  - OpenReview: https://openreview.net/forum?id=LCr6CIAEye
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/nabati25a/nabati25a.pdf
+  - Keywords: other-time-series
+- **LangTime: A Language-Guided Unified Model for Time Series Forecasting with Proximal Policy Optimization**
+  - OpenReview: https://openreview.net/forum?id=VfoKOD65Zq
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/niu25e/niu25e.pdf
+  - Keywords: forecasting, time-series
+- **High-Dimensional Prediction for Sequential Decision Making**
+  - OpenReview: https://openreview.net/forum?id=uRAgIVnAO6
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/noarov25b/noarov25b.pdf
+  - Keywords: other-time-series
+- **Since Faithfulness Fails: The Performance Limits of Neural Causal Discovery**
+  - OpenReview: https://openreview.net/forum?id=2nQyYo71ih
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/olko25a/olko25a.pdf
+  - Keywords: causal
+- **Activation by Interval-wise Dropout: A Simple Way to Prevent Neural Networks from Plasticity Loss**
+  - OpenReview: https://openreview.net/forum?id=Y0hjl4L1ve
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/park25b/park25b.pdf
+  - Keywords: other-time-series
+- **When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series**
+  - OpenReview: https://openreview.net/forum?id=Dqp6IMI3gQ
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/park25e/park25e.pdf
+  - Keywords: forecasting, time-series, anomaly-detection
+- **SCENT: Robust Spatiotemporal Learning for Continuous Scientific Data via Scalable Conditioned Neural Fields**
+  - OpenReview: https://openreview.net/forum?id=vhjuemZuRU
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/park25g/park25g.pdf
+  - Keywords: spatiotemporal
+- **Capturing Temporal Dynamics in Large-Scale Canopy Tree Height Estimation**
+  - OpenReview: https://openreview.net/forum?id=ri1cs3vtXX
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/pauls25a/pauls25a.pdf
+  - Keywords: other-time-series
+- **Thermalizer: Stable autoregressive neural emulation of spatiotemporal chaos**
+  - OpenReview: https://openreview.net/forum?id=73zrUyI5kB
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/pedersen25a/pedersen25a.pdf
+  - Keywords: spatiotemporal
+- **GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction**
+  - OpenReview: https://openreview.net/forum?id=x9LGowGzZu
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/pei25c/pei25c.pdf
+  - Keywords: other-time-series
+- **Revisiting the Predictability of Performative, Social Events**
+  - OpenReview: https://openreview.net/forum?id=Q4yzASDktN
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/perdomo25a/perdomo25a.pdf
+  - Keywords: other-time-series
+- **RATE: Causal Explainability of Reward Models with Imperfect Counterfactuals**
+  - OpenReview: https://openreview.net/forum?id=rL3uxe5a0c
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/reber25a/reber25a.pdf
+  - Keywords: causal
+- **Conditional Diffusion Model with Nonlinear Data Transformation for Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=kcUNMKqrCg
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/rishi25a/rishi25a.pdf
+  - Keywords: forecasting, time-series, diffusion
+- **FairPFN: A Tabular Foundation Model for Causal Fairness**
+  - OpenReview: https://openreview.net/forum?id=I8DVh2jnEA
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/robertson25a/robertson25a.pdf
+  - Keywords: foundation-models, causal
+- **Generative Intervention Models for Causal Perturbation Modeling**
+  - OpenReview: https://openreview.net/forum?id=FgNYqzjVLg
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/schneider25a/schneider25a.pdf
+  - Keywords: causal
+- **Privacy Amplification by Structured Subsampling for Deep Differentially Private Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=bkauyuzBN4
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/schuchardt25a/schuchardt25a.pdf
+  - Keywords: forecasting, time-series
+- **TimePoint: Accelerated Time Series Alignment via Self-Supervised Keypoint and Descriptor Learning**
+  - OpenReview: https://openreview.net/forum?id=bUGdGaNFhi
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/shapira-weber25a/shapira-weber25a.pdf
+  - Keywords: time-series
+- **LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding**
+  - OpenReview: https://openreview.net/forum?id=XzZC4gs1mf
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/shen25j/shen25j.pdf
+  - Keywords: spatiotemporal
+- **CMoS: Rethinking Time Series Prediction Through the Lens of Chunk-wise Spatial Correlations**
+  - OpenReview: https://openreview.net/forum?id=eyjrms4HHm
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/si25a/si25a.pdf
+  - Keywords: time-series
+- **Learning Invariant Causal Mechanism from Vision-Language Models**
+  - OpenReview: https://openreview.net/forum?id=GB9XiKIwfp
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/song25i/song25i.pdf
+  - Keywords: causal
+- **Fixing the Double Penalty in Data-Driven Weather Forecasting Through a Modified Spherical Harmonic Loss Function**
+  - OpenReview: https://openreview.net/forum?id=YNh77OLRid
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/subich25a/subich25a.pdf
+  - Keywords: forecasting, spatiotemporal
+- **Analytical Construction on Geometric Architectures: Transitioning from Static to Temporal Link Prediction**
+  - OpenReview: https://openreview.net/forum?id=0d0L3U3MAM
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/sun25a/sun25a.pdf
+  - Keywords: other-time-series
+- **Scalable Equilibrium Sampling with Sequential Boltzmann Generators**
+  - OpenReview: https://openreview.net/forum?id=U7eMoRDIGi
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/tan25a/tan25a.pdf
+  - Keywords: other-time-series
+- **Learnable Spatial-Temporal Positional Encoding for Link Prediction**
+  - OpenReview: https://openreview.net/forum?id=EoxpGWgeCH
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/tieu25a/tieu25a.pdf
+  - Keywords: other-time-series
+- **Causal Effect Identification in lvLiNGAM from Higher-Order Cumulants**
+  - OpenReview: https://openreview.net/forum?id=39JKH8k3FS
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/tramontano25a/tramontano25a.pdf
+  - Keywords: causal
+- **Identifying Causal Direction via Variational Bayesian Compression**
+  - OpenReview: https://openreview.net/forum?id=F0sinjQMnv
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/tran25a/tran25a.pdf
+  - Keywords: causal
+- **Counterfactual Effect Decomposition in Multi-Agent Sequential Decision Making**
+  - OpenReview: https://openreview.net/forum?id=jHLSnYNt1m
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/triantafyllou25a/triantafyllou25a.pdf
+  - Keywords: other-time-series
+- **Teaching Transformers Causal Reasoning through Axiomatic Training**
+  - OpenReview: https://openreview.net/forum?id=AhebPqDOMI
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/vashishtha25a/vashishtha25a.pdf
+  - Keywords: causal
+- **Federated Causal Structure Learning with Non-identical Variable Sets**
+  - OpenReview: https://openreview.net/forum?id=QlEx8f3S61
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25j/wang25j.pdf
+  - Keywords: causal
+- **Learning Event Completeness for Weakly Supervised Video Anomaly Detection**
+  - OpenReview: https://openreview.net/forum?id=JaNKGPkDpw
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25l/wang25l.pdf
+  - Keywords: anomaly-detection
+- **TimeDART: A Diffusion Autoregressive Transformer for Self-Supervised Time Series Representation**
+  - OpenReview: https://openreview.net/forum?id=v2G9HML7ep
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25r/wang25r.pdf
+  - Keywords: time-series, representation, diffusion
+- **GTR: A General, Multi-View, and Dynamic Framework for Trajectory Representation Learning**
+  - OpenReview: https://openreview.net/forum?id=ehcWKZ2nEn
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25z/wang25z.pdf
+  - Keywords: representation
+- **Event-Customized Image Generation**
+  - OpenReview: https://openreview.net/forum?id=7exLwkfcGL
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25ar/wang25ar.pdf
+  - Keywords: other-time-series
+- **ITFormer: Bridging Time Series and Natural Language for Multi-Modal QA with Large-Scale Multitask Dataset**
+  - OpenReview: https://openreview.net/forum?id=GByP03IitA
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25av/wang25av.pdf
+  - Keywords: time-series
+- **Bayesian Active Learning for Bivariate Causal Discovery**
+  - OpenReview: https://openreview.net/forum?id=wazV91p0oU
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25bp/wang25bp.pdf
+  - Keywords: causal
+- **LightGTS: A Lightweight General Time Series Forecasting Model**
+  - OpenReview: https://openreview.net/forum?id=Z5FJsp1U3Z
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25ch/wang25ch.pdf
+  - Keywords: forecasting, time-series
+- **Towards a General Time Series Forecasting Model with Unified Representation and Adaptive Transfer**
+  - OpenReview: https://openreview.net/forum?id=6J9tJKK4YI
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25ci/wang25ci.pdf
+  - Keywords: forecasting, time-series, representation
+- **Unifying Knowledge from Diverse Datasets to Enhance Spatial-Temporal Modeling: A Granularity-Adaptive Geographical Embedding Approach**
+  - OpenReview: https://openreview.net/forum?id=uPVynwZxch
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25cu/wang25cu.pdf
+  - Keywords: representation
+- **Discovering Latent Causal Graphs from Spatiotemporal Data**
+  - OpenReview: https://openreview.net/forum?id=WPeAraSKAK
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25cy/wang25cy.pdf
+  - Keywords: spatiotemporal, causal
+- **A Non-isotropic Time Series Diffusion Model with Moving Average Transitions**
+  - OpenReview: https://openreview.net/forum?id=yFF7hy8Mbh
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25dy/wang25dy.pdf
+  - Keywords: time-series, diffusion
+- **A Generalizable Physics-Enhanced State Space Model for Long-Term Dynamics Forecasting in Complex Environments**
+  - OpenReview: https://openreview.net/forum?id=9NrUIaH1sx
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25ex/wang25ex.pdf
+  - Keywords: forecasting
+- **Towards the Causal Complete Cause of Multi-Modal Representation Learning**
+  - OpenReview: https://openreview.net/forum?id=9c4YYoBS4N
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25ey/wang25ey.pdf
+  - Keywords: causal, representation
+- **Exploring Representations and Interventions in Time Series Foundation Models**
+  - OpenReview: https://openreview.net/forum?id=goVzfYtj58
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wilinski25a/wilinski25a.pdf
+  - Keywords: time-series, foundation-models, representation
+- **Context is Key: A Benchmark for Forecasting with Essential Textual Information**
+  - OpenReview: https://openreview.net/forum?id=ih2WuBT1Fn
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/williams25a/williams25a.pdf
+  - Keywords: forecasting
+- **Bivariate Causal Discovery with Proxy Variables: Integral Solving and Beyond**
+  - OpenReview: https://openreview.net/forum?id=RdiEl7LF7a
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wu25h/wu25h.pdf
+  - Keywords: causal
+- **Identifying biological perturbation targets through causal differential networks**
+  - OpenReview: https://openreview.net/forum?id=NBi8mjNebT
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wu25v/wu25v.pdf
+  - Keywords: causal
+- **$K^2$VAE: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=71Mm8GDGYd
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wu25w/wu25w.pdf
+  - Keywords: forecasting, time-series
+- **Directly Forecasting Belief for Reinforcement Learning with Delays**
+  - OpenReview: https://openreview.net/forum?id=S9unJQditt
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/wu25ag/wu25ag.pdf
+  - Keywords: forecasting
+- **Distinguishing Cause from Effect with Causal Velocity Models**
+  - OpenReview: https://openreview.net/forum?id=gV01DWTFTc
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/xi25a/xi25a.pdf
+  - Keywords: causal
+- **Sparse Video-Gen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity**
+  - OpenReview: https://openreview.net/forum?id=u8CA3qIS0V
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/xi25c/xi25c.pdf
+  - Keywords: diffusion
+- **Causal Abstraction Inference under Lossy Representations**
+  - OpenReview: https://openreview.net/forum?id=WDybFnCPaB
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/xia25a/xia25a.pdf
+  - Keywords: causal, representation
+- **Hybrid Spiking Vision Transformer for Object Detection with Event Cameras**
+  - OpenReview: https://openreview.net/forum?id=WZKcJZWG3P
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/xu25e/xu25e.pdf
+  - Keywords: other-time-series
+- **Sub-Sequential Physics-Informed Learning with State Space Model**
+  - OpenReview: https://openreview.net/forum?id=V7VnjJxBlg
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/xu25t/xu25t.pdf
+  - Keywords: other-time-series
+- **Reducing Confounding Bias without Data Splitting for Causal Inference via Optimal Transport**
+  - OpenReview: https://openreview.net/forum?id=fd7ddFBNmP
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/yan25a/yan25a.pdf
+  - Keywords: causal
+- **Training High Performance Spiking Neural Network by Temporal Model Calibration**
+  - OpenReview: https://openreview.net/forum?id=l7ZmdeFyM1
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/yan25c/yan25c.pdf
+  - Keywords: other-time-series
+- **Evolving Minds: Logic-Informed Inference from Temporal Action Patterns**
+  - OpenReview: https://openreview.net/forum?id=QRms4lx0Fp
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/yang25i/yang25i.pdf
+  - Keywords: other-time-series
+- **Neural Event-Triggered Control with Optimal Scheduling**
+  - OpenReview: https://openreview.net/forum?id=djVlAgkRFO
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/yang25av/yang25av.pdf
+  - Keywords: other-time-series
+- **Arrow: Accelerator for Time Series Causal Discovery with Time Weaving**
+  - OpenReview: https://openreview.net/forum?id=C3gAIlPhjV
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/yao25a/yao25a.pdf
+  - Keywords: time-series, causal
+- **Non-stationary Diffusion For Probabilistic Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=afpc1MFMYU
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/ye25i/ye25i.pdf
+  - Keywords: forecasting, time-series, diffusion
+- **A Causal World Model Underlying Next Token Prediction: Exploring GPT in a Controlled Environment**
+  - OpenReview: https://openreview.net/forum?id=qA3xHJzF6B
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/yehezkel-rohekar25a/yehezkel-rohekar25a.pdf
+  - Keywords: causal
+- **A Recipe for Causal Graph Regression: Confounding Effects Revisited**
+  - OpenReview: https://openreview.net/forum?id=KwSaa1Ykdf
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/yin25d/yin25d.pdf
+  - Keywords: causal
+- **Trajectory World Models for Heterogeneous Environments**
+  - OpenReview: https://openreview.net/forum?id=Py2KmXaRmi
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/yin25f/yin25f.pdf
+  - Keywords: other-time-series
+- **Causal Invariance-aware Augmentation for Brain Graph Contrastive Learning**
+  - OpenReview: https://openreview.net/forum?id=F3Cbhb611p
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/yu25o/yu25o.pdf
+  - Keywords: causal
+- **TS-SNN: Temporal Shift Module for Spiking Neural Networks**
+  - OpenReview: https://openreview.net/forum?id=eFgtUFYe6v
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/yu25w/yu25w.pdf
+  - Keywords: other-time-series
+- **Residual TPP: A Unified Lightweight Approach for Event Stream Data Analysis**
+  - OpenReview: https://openreview.net/forum?id=AUkBFMtyUs
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/yuan25a/yuan25a.pdf
+  - Keywords: other-time-series
+- **Peripheral Memory for LLMs: Integration of Sequential Memory Banks with Adaptive Querying**
+  - OpenReview: https://openreview.net/forum?id=6FwwtwJ89I
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhai25b/zhai25b.pdf
+  - Keywords: other-time-series
+- **Minimax Optimal Regret Bound for Reinforcement Learning with Trajectory Feedback**
+  - OpenReview: https://openreview.net/forum?id=oOAICE3sY7
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhang25l/zhang25l.pdf
+  - Keywords: other-time-series
+- **LLMScan: Causal Scan for LLM Misbehavior Detection**
+  - OpenReview: https://openreview.net/forum?id=M9keJ0Jy3J
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhang25al/zhang25al.pdf
+  - Keywords: causal
+- **Causality Inspired Federated Learning for OOD Generalization**
+  - OpenReview: https://openreview.net/forum?id=pWWUJw2qew
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhang25ba/zhang25ba.pdf
+  - Keywords: causal
+- **SKOLR: Structured Koopman Operator Linear RNN for Time-Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=Xg1BGlybfq
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhang25be/zhang25be.pdf
+  - Keywords: forecasting
+- **Conformal Anomaly Detection in Event Sequences**
+  - OpenReview: https://openreview.net/forum?id=Cq7XU5tmP8
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhang25dn/zhang25dn.pdf
+  - Keywords: anomaly-detection, uncertainty
+- **Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting**
+  - OpenReview: https://openreview.net/forum?id=b5h60xQnzM
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhong25a/zhong25a.pdf
+  - Keywords: forecasting, time-series
+- **TUMTraf VideoQA: Dataset and Benchmark for Unified Spatio-Temporal Video Understanding in Traffic Scenes**
+  - OpenReview: https://openreview.net/forum?id=Yfoi5O68rf
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhou25g/zhou25g.pdf
+  - Keywords: spatiotemporal
+- **KAN-AD: Time Series Anomaly Detection with Kolmogorov–Arnold Networks**
+  - OpenReview: https://openreview.net/forum?id=LWQ4zu9SdQ
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhou25u/zhou25u.pdf
+  - Keywords: time-series, anomaly-detection
+- **Three-Dimensional Trajectory Prediction with 3DMoTraj Dataset**
+  - OpenReview: https://openreview.net/forum?id=jkVH7nLzUR
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhou25ag/zhou25ag.pdf
+  - Keywords: other-time-series
+- **Balancing Interference and Correlation in Spatial Experimental Designs: A Causal Graph Cut Approach**
+  - OpenReview: https://openreview.net/forum?id=uWAGlqVkAv
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhu25l/zhu25l.pdf
+  - Keywords: causal
+- **EvFocus: Learning to Reconstruct Sharp Images from Out-of-Focus Event Streams**
+  - OpenReview: https://openreview.net/forum?id=cJCROTFMEM
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhu25n/zhu25n.pdf
+  - Keywords: other-time-series
+- **Rethinking Causal Ranking: A Balanced Perspective on Uplift Model Evaluation**
+  - OpenReview: https://openreview.net/forum?id=iJdjDM6Odd
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhu25s/zhu25s.pdf
+  - Keywords: causal
+- **Physics-informed Temporal Alignment for Auto-regressive PDE Foundation Models**
+  - OpenReview: https://openreview.net/forum?id=OKDN1Hg3im
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhu25w/zhu25w.pdf
+  - Keywords: foundation-models
+- **CSV-Occ: Fusing Multi-frame Alignment for Occupancy Prediction with Temporal Cross State Space Model and Central Voting Mechanism**
+  - OpenReview: https://openreview.net/forum?id=7Dt3nH5TZq
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhu25ah/zhu25ah.pdf
+  - Keywords: other-time-series
+- **Position: Probabilistic Modelling is Sufficient for Causal Inference**
+  - OpenReview: https://openreview.net/forum?id=V1FP9WDKa7
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/mlodozeniec25a/mlodozeniec25a.pdf
+  - Keywords: causal
+- **Position: Causal Machine Learning Requires Rigorous Synthetic Experiments for Broader Adoption**
+  - OpenReview: https://openreview.net/forum?id=Nr2ulBN50q
+  - PDF: https://raw.githubusercontent.com/mlresearch/v267/main/assets/poinsot25a/poinsot25a.pdf
+  - Keywords: causal
