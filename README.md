@@ -1,36 +1,54 @@
 # Time Series Research Radar
 
-一个面向时序研究者的开源研究情报整理项目。
+Time Series Research Radar is an open-source research intelligence project for tracking time-series papers across major ML / data mining venues.
 
-## 项目定位
-Time Series Research Radar 用于持续跟踪时间序列相关会议论文，并自动产出：
-- 会议论文跟踪清单
+## What this project does
+The repository is designed to support a repeatable workflow for:
+- conference paper tracking
+- public-source metadata curation
 - topic clustering
-- method map
-- benchmark map
-- rebuttal / reviewer pattern mining
-- weekly digest
+- method map generation
+- benchmark map generation
+- reviewer / rebuttal pattern mining
+- weekly digest generation
 
-本项目当前聚焦 **ICLR / NeurIPS / ICML / KDD** 中与时间序列相关的论文，优先支持 OpenReview、arXiv、会议官网等公开资料的结构化整理。
+The current scope focuses on **ICLR, ICML, NeurIPS, and KDD**, with support for public sources such as OpenReview, PMLR, conference websites, and paper landing pages.
 
-## 当前阶段
-当前处于 **Phase 1: 最小闭环搭建**。
+## Project boundary
+This repository maintains a **public-source layer only**.
 
-当前最小闭环：
-1. 维护会议/年份分类的公开论文资料目录
-2. 保存公开的审稿 / rebuttal 线程整理（如有）
-3. 生成 markdown 索引与 weekly digest 骨架
-4. 提供本地批量下载 PDF 的脚本
-5. 后续在公开资料层上继续做 topic clustering、method map、benchmark map
+It includes:
+- paper metadata
+- conference / year organization
+- public links (PDF / OpenReview / DOI / proceedings)
+- structured review-thread files when publicly available
+- derived indexes, tags, and maps built from public material
 
-## 目录结构
+It does **not** include:
+- private research notes
+- unpublished experiments
+- personal dissertation strategy notes
+- non-public annotations
+
+## Current status
+This repository is currently in a release-ready MVP stage.
+
+Implemented so far:
+1. conference/year directory structure
+2. public-source packs for ICLR 2026 time-series papers
+3. ICML 2025 time-series related paper manifest with titles, links, abstracts, and tags
+4. KDD 2025 time-series related paper manifest with titles, DOI links, track labels, and tags
+5. multi-conference index generation
+6. local PDF batch download script
+
+## Repository structure
 ```text
 radar/
   data/
     conferences/
       ICLR/
-      NeurIPS/
       ICML/
+      NeurIPS/
       KDD/
     raw/
     curated/
@@ -38,71 +56,72 @@ radar/
     papers/
     digests/
     maps/
-  config/
   docs/
+  config/
 scripts/
 ```
 
-## 安装
+## Installation
 ```bash
 python -m venv .venv
 . .venv/Scripts/activate
 pip install -r requirements.txt
 ```
 
-## 使用方式
-### 1. 初始化目录
+## Quick start
+### 1. Initialize workspace folders
 ```bash
 python scripts/init_workspace.py
 ```
 
-### 2. 生成所有会议索引
+### 2. Build all conference indexes
 ```bash
 python scripts/build_all_conference_indexes.py
 ```
 
-### 3. 本地批量下载公开 PDF
+### 3. Download public PDFs locally
 ```bash
-python scripts/download_papers.py --manifest radar/data/conferences/ICLR/2026/papers_manifest.json --outdir local_papers/ICLR/2026 --skip-existing
+python scripts/download_papers.py --manifest radar/data/conferences/ICML/2025/papers_manifest.json --outdir local_papers/ICML/2025 --skip-existing
 ```
 
-### 4. 生成基础 paper index
-```bash
-python scripts/build_index.py --input radar/data/curated/papers.json --output radar/outputs/paper_index.md
-```
-
-### 5. 生成周报骨架
+### 4. Generate a weekly digest skeleton
 ```bash
 python scripts/generate_digest.py --week 2026-W11
 ```
 
-## 当前公开资料入口
-- `radar/data/conferences/ICLR/2026/`
-- `radar/data/conferences/NeurIPS/2026/`
-- `radar/data/conferences/ICML/2026/`
-- `radar/data/conferences/KDD/2026/`
+## Current conference coverage
+### Ready
+- ICLR 2026 public source pack
+- ICML 2025 time-series related paper manifest
+- KDD 2025 time-series related paper manifest
 
-## 适用对象
-- 博士生 / 硕士生
-- AI 研究员
-- 做时序建模、投稿、rebuttal、文献追踪的人
+### In progress / pending public availability
+- NeurIPS 2025
+- NeurIPS 2026
+- ICML 2026
+- KDD 2026
 
-## 为什么做这个项目
-当前时序论文信息分散在 OpenReview、arXiv、公众号、社媒与仓库中。研究者往往花大量时间做低价值筛选，而不是做高价值判断。这个项目希望把“检索、分类、归档、比较、每周更新”这条链条做成可复用、可维护的公共工具。
+## Documentation
+- `README.zh-CN.md` — Chinese overview
+- `CHANGELOG.md` — change history
+- `ROADMAP.md` — roadmap
+- `DATA_SOURCES.md` — source coverage and limitations
+- `REPO_STATUS.md` — current repository release status
+- `radar/docs/MAINTENANCE_PLAN.md` — maintenance plan
+- `radar/docs/OSS_APPLICATION_PREP.md` — OSS support application prep notes
+- `radar/docs/SOURCE_POLICY.md` — boundary of public vs private material
 
-## 开源维护原则
-- 公开仓库
-- 来源可追溯
-- 输出尽量结构化
-- 允许人工修订优先于全自动覆盖
-- 不伪造评审、实验和引用信息
-- 不将私人研究核心笔记直接并入公开资料层
+## Why this repository exists
+Time-series paper tracking is fragmented across OpenReview, proceedings sites, conference websites, social media, blogs, and code repositories. Researchers often spend too much time on repetitive collection and too little time on actual analysis.
 
-## Roadmap
-见 `ROADMAP.md`
+This project aims to turn that repetitive work into a maintainable public workflow.
 
-## 更新日志
-见 `CHANGELOG.md`
+## Maintenance principles
+- keep sources traceable
+- prefer structured output over ad-hoc notes
+- allow manual correction over blind full automation
+- do not fabricate reviews, results, or citations
+- do not mix private research notes into the public repository
 
-## 许可证
-暂定 MIT（后续可根据数据来源边界调整）
+## License
+MIT
