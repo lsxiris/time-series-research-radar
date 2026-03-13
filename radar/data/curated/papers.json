@@ -1,0 +1,26 @@
+[
+  {
+    "title": "CoRA: Boosting Time Series Foundation Models for Multivariate Forecasting through Correlation-aware Adapter",
+    "venue": "ICLR",
+    "year": 2026,
+    "topics": ["multivariate forecasting", "adapter", "correlation modeling"],
+    "support_level": "strong",
+    "risk_level": "medium"
+  },
+  {
+    "title": "DistDF: Time-series Forecasting Needs Joint-distribution Wasserstein Alignment",
+    "venue": "ICLR",
+    "year": 2026,
+    "topics": ["forecasting objective", "distribution alignment", "wasserstein"],
+    "support_level": "strong",
+    "risk_level": "medium"
+  },
+  {
+    "title": "Characteristic Root Analysis and Regularization for Linear Time Series Forecasting",
+    "venue": "ICLR",
+    "year": 2026,
+    "topics": ["linear forecasting", "characteristic roots", "regularization"],
+    "support_level": "strong",
+    "risk_level": "medium"
+  }
+]

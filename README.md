@@ -1,0 +1,90 @@
+# Time Series Research Radar
+
+一个面向时序研究者的开源研究情报整理项目。
+
+## 项目定位
+Time Series Research Radar 用于持续跟踪时间序列相关会议论文，并自动产出：
+- 会议论文跟踪清单
+- topic clustering
+- method map
+- benchmark map
+- rebuttal / reviewer pattern mining
+- weekly digest
+
+本项目当前聚焦 **ICLR / NeurIPS / ICML / AAAI / KDD** 中与时间序列相关的论文，优先支持 OpenReview 公开讨论内容的结构化整理。
+
+## 当前阶段
+当前处于 **Phase 1: 最小闭环搭建**。
+
+已计划的最小闭环：
+1. 输入论文原始资料（OpenReview 线程、PDF 摘要、手工补充清单）
+2. 结构化提取 paper metadata / reviewer concerns / rebuttal summary
+3. 输出 markdown 笔记、paper index、weekly digest
+4. 保留 changelog 与维护路线图
+
+## 目录结构
+```text
+radar/
+  data/
+    raw/
+    curated/
+  outputs/
+    papers/
+    digests/
+    maps/
+  config/
+  scripts/
+  docs/
+```
+
+## 安装
+```bash
+python -m venv .venv
+. .venv/Scripts/activate
+pip install -r requirements.txt
+```
+
+## 使用方式
+### 1. 初始化目录
+```bash
+python scripts/init_workspace.py
+```
+
+### 2. 从已有 Markdown / OpenReview 线程生成结构化索引
+```bash
+python scripts/build_index.py --input data/curated/papers.json --output outputs/paper_index.md
+```
+
+### 3. 生成周报骨架
+```bash
+python scripts/generate_digest.py --week 2026-W11
+```
+
+## 输出示例
+- `outputs/papers/`：单篇论文卡片
+- `outputs/maps/`：method map / benchmark map
+- `outputs/digests/`：weekly digest
+
+## 适用对象
+- 博士生 / 硕士生
+- AI 研究员
+- 做时序建模、投稿、rebuttal、文献追踪的人
+
+## 为什么做这个项目
+当前时序论文信息分散在 OpenReview、arXiv、公众号、社媒与仓库中。研究者往往花大量时间做低价值筛选，而不是做高价值判断。这个项目希望把“检索、归档、比较、每周更新”这条链条做成可复用、可维护的公共工具。
+
+## 开源维护原则
+- 公开仓库
+- 来源可追溯
+- 输出尽量结构化
+- 允许人工修订优先于全自动覆盖
+- 不伪造评审、实验和引用信息
+
+## Roadmap
+见 `ROADMAP.md`
+
+## 更新日志
+见 `CHANGELOG.md`
+
+## 许可证
+暂定 MIT（后续可根据数据来源边界调整）
