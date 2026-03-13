@@ -4,15 +4,19 @@
 - [x] 建立仓库结构
 - [x] 建立 README / CHANGELOG / ROADMAP
 - [x] 建立基础脚本骨架
-- [x] 建立 ICLR2026 示例数据入口
-- [ ] 生成第一版 paper index
+- [x] 建立 ICLR2026 公开资料入口
+- [x] 收录 14 篇 ICLR2026 时间序列论文 manifest
+- [x] 收录 14 组 OpenReview 审稿 / rebuttal 线程整理
+- [x] 生成 ICLR2026 索引页
 - [ ] 生成第一版 weekly digest
+- [ ] 输出第一版 topic clustering
 - [ ] 输出第一版 method map / benchmark map
 
 ## Phase 2：可持续维护
 - [ ] 增加会议配置（ICLR / NeurIPS / ICML）
 - [ ] 增加 topic clustering 规则
 - [ ] 增加 rebuttal pattern mining 模块
+- [ ] 增加论文下载脚本与文件目录规范
 - [ ] 增加 release 节奏与 tag 规范
 - [ ] 增加 issues 模板与 contribution guide
 

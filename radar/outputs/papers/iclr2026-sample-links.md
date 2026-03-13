@@ -1,12 +1,15 @@
-# ICLR2026 样板链接
+# ICLR2026 公开资料入口
 
-当前已接入的博士级样板笔记来自工作区已有整理结果：
+项目当前挂接的是 **公开资料层**，不包含私有研究笔记。
 
-- `E:\openclaw-workspace\research\ICLR2026\notes\第二轮\2026-CoRA-博士级样板重构.md`
-- `E:\openclaw-workspace\research\ICLR2026\notes\第二轮\2026-DistDF-博士级样板重构.md`
-- `E:\openclaw-workspace\research\ICLR2026\notes\第二轮\2026-Characteristic-Root-Analysis-博士级样板重构.md`
+入口目录：
+- `radar/data/conferences/ICLR/2026/README.md`
+- `radar/data/conferences/ICLR/2026/papers_manifest.json`
+- `radar/data/conferences/ICLR/2026/openreview_threads/`
 
-对应中文翻译版：
-- `E:\openclaw-workspace\research\ICLR2026\notes\第二轮\2026-CoRA-审稿与回复翻译版.md`
-- `E:\openclaw-workspace\research\ICLR2026\notes\第二轮\2026-DistDF-审稿与回复翻译版.md`
-- `E:\openclaw-workspace\research\ICLR2026\notes\第二轮\2026-Characteristic-Root-Analysis-审稿与回复翻译版.md`
+后续将在此基础上继续增加：
+- topic clustering
+- 关键词抽取
+- method map
+- benchmark map
+- weekly digest
