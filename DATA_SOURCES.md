@@ -13,7 +13,7 @@
 - OpenReview thread files (raw / structured)
 
 ### ICML 2025
-- time-series related papers collected from PMLR volume 267
+- time-series related papers filtered from **PMLR Volume 267**, which is the proceedings volume of ICML 2025
 - titles, paper page links, PDF links, OpenReview links, abstracts, tags
 
 ### KDD 2025

@@ -92,7 +92,7 @@ python scripts/generate_digest.py --week 2026-W11
 ## Current conference coverage
 ### Ready
 - ICLR 2026 public source pack
-- ICML 2025 time-series related paper manifest
+- ICML 2025 time-series related paper manifest (filtered from PMLR Volume 267, the ICML 2025 proceedings)
 - KDD 2025 time-series related paper manifest
 
 ### In progress / pending public availability
