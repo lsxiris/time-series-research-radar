@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## 0.3.0 - 2026-03-13
+### Added
+- 增加 `NeurIPS/2026`、`ICML/2026`、`KDD/2026` 目录骨架
+- 增加统一论文下载脚本 `download_papers.py`
+- 增加会议 manifest 模板 `conference_template.json`
+- 增加多会议索引生成脚本 `build_all_conference_indexes.py`
+- 增加下载策略说明 `DOWNLOAD_POLICY.md`
+
+### Notes
+- 这一版本先把多会议维护能力搭起来，下一步再补各会议第一批公开论文元数据。
+
 ## 0.2.0 - 2026-03-13
 ### Added
 - 增加 `radar/data/conferences/ICLR/2026/` 公开资料目录
