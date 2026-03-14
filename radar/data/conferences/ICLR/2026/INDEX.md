@@ -1,47 +1,34 @@
-# ICLR 2026 时间序列论文索引
+# ICLR 2026 Time-Series Papers
 
-## generation
-- **Causal Time Series Generation via Diffusion Models**
-  - OpenReview: https://openreview.net/forum?id=9bkzvYw9ds
-  - PDF: https://openreview.net/pdf?id=9bkzvYw9ds
-- **CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data**
-  - OpenReview: https://openreview.net/forum?id=xBW2FIfswU
-  - PDF: https://openreview.net/pdf?id=xBW2FIfswU
-- **CTBench: Cryptocurrency Time Series Generation Benchmark**
-  - OpenReview: https://openreview.net/forum?id=RzT2sombPD
-  - PDF: https://openreview.net/pdf?id=RzT2sombPD
-- **Conditionally Whitened Generative Models for Probabilistic Time Series Forecasting**
-  - OpenReview: https://openreview.net/forum?id=GG01lCopSK
-  - PDF: https://openreview.net/pdf?id=GG01lCopSK
-- **Aurora: Towards Universal Generative Multimodal Time Series Forecasting**
-  - OpenReview: https://openreview.net/forum?id=VVJ6Ck9JBl
-  - PDF: https://openreview.net/pdf?id=VVJ6Ck9JBl
+A curated page for directly browsing paper links and code availability.
 
-## forecasting
-- **MMPD: Diverse Time Series Forecasting via Multi-Mode Patch Diffusion Loss**
-  - OpenReview: https://openreview.net/forum?id=NEUgHT8dvH
-  - PDF: https://openreview.net/pdf?id=NEUgHT8dvH
-- **CoRA: Boosting Time Series Foundation Models for Multivariate Forecasting through Correlation-aware Adapter**
-  - OpenReview: https://openreview.net/forum?id=JRlNrcTllN
-  - PDF: https://openreview.net/pdf?id=JRlNrcTllN
-- **DistDF: Time-series Forecasting Needs Joint-distribution Wasserstein Alignment**
-  - OpenReview: https://openreview.net/forum?id=VrdLwUmzBy
-  - PDF: https://openreview.net/pdf?id=VrdLwUmzBy
-- **COSA: Context-aware Output-Space Adapter for Test-Time Adaptation in Time Series Forecasting**
-  - OpenReview: https://openreview.net/forum?id=L7Z5wBMPrW
-  - PDF: https://openreview.net/pdf?id=L7Z5wBMPrW
-- **Tackling Time-Series Forecasting Generalization via Mitigating Concept Drift**
-  - OpenReview: https://openreview.net/forum?id=emkvZ7NanK
-  - PDF: https://openreview.net/pdf?id=emkvZ7NanK
-- **The Forecast After the Forecast: A Post-Processing Shift in Time Series**
-  - OpenReview: https://openreview.net/forum?id=syfWdclGE1
-  - PDF: https://openreview.net/pdf?id=syfWdclGE1
-- **End-to-End Probabilistic Framework for Learning with Hard Constraints**
-  - OpenReview: https://openreview.net/forum?id=RPowYXiRmW
-  - PDF: https://openreview.net/pdf?id=RPowYXiRmW
-- **Characteristic Root Analysis and Regularization for Linear Time Series Forecasting**
-  - OpenReview: https://openreview.net/forum?id=JTtwGRACte
-  - PDF: https://openreview.net/pdf?id=JTtwGRACte
-- **NetBurst: Event-Centric Forecasting of Bursty, Intermittent Time Series**
-  - OpenReview: https://openreview.net/forum?id=sMvDwYNSa4
-  - PDF: https://openreview.net/pdf?id=sMvDwYNSa4
+## Snapshot
+- Total papers: 14
+- With code links: 0
+- Forecasting-related: 11
+- Foundation-model-related: 2
+
+## Maintainer Notes
+- Foundation-model and transfer-style papers are already a visible thread in this batch.
+- Forecasting remains the dominant task, so this page is especially useful for trend tracking in prediction methods.
+- Diffusion-style modeling appears repeatedly, suggesting stronger overlap between generative modeling and time-series research.
+- Multimodal or cross-modal formulations are starting to show up instead of pure single-series modeling.
+
+## Paper List
+
+| Title | Paper | Code | Topic |
+|---|---|---|---|
+| Characteristic Root Analysis and Regularization for Linear Time Series Forecasting | [Paper](https://openreview.net/pdf?id=JTtwGRACte) | — | forecasting |
+| CoRA: Boosting Time Series Foundation Models for Multivariate Forecasting through Correlation-aware Adapter | [Paper](https://openreview.net/pdf?id=JRlNrcTllN) | — | forecasting |
+| COSA: Context-aware Output-Space Adapter for Test-Time Adaptation in Time Series Forecasting | [Paper](https://openreview.net/pdf?id=L7Z5wBMPrW) | — | forecasting |
+| DistDF: Time-series Forecasting Needs Joint-distribution Wasserstein Alignment | [Paper](https://openreview.net/pdf?id=VrdLwUmzBy) | — | forecasting |
+| End-to-End Probabilistic Framework for Learning with Hard Constraints | [Paper](https://openreview.net/pdf?id=RPowYXiRmW) | — | forecasting |
+| MMPD: Diverse Time Series Forecasting via Multi-Mode Patch Diffusion Loss | [Paper](https://openreview.net/pdf?id=NEUgHT8dvH) | — | forecasting |
+| NetBurst: Event-Centric Forecasting of Bursty, Intermittent Time Series | [Paper](https://openreview.net/pdf?id=sMvDwYNSa4) | — | forecasting |
+| Tackling Time-Series Forecasting Generalization via Mitigating Concept Drift | [Paper](https://openreview.net/pdf?id=emkvZ7NanK) | — | forecasting |
+| The Forecast After the Forecast: A Post-Processing Shift in Time Series | [Paper](https://openreview.net/pdf?id=syfWdclGE1) | — | forecasting |
+| Aurora: Towards Universal Generative Multimodal Time Series Forecasting | [Paper](https://openreview.net/pdf?id=VVJ6Ck9JBl) | — | generation |
+| CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data | [Paper](https://openreview.net/pdf?id=xBW2FIfswU) | — | generation |
+| Causal Time Series Generation via Diffusion Models | [Paper](https://openreview.net/pdf?id=9bkzvYw9ds) | — | generation |
+| Conditionally Whitened Generative Models for Probabilistic Time Series Forecasting | [Paper](https://openreview.net/pdf?id=GG01lCopSK) | — | generation |
+| CTBench: Cryptocurrency Time Series Generation Benchmark | [Paper](https://openreview.net/pdf?id=RzT2sombPD) | — | generation |

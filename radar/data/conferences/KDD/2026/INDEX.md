@@ -1,3 +1,18 @@
-# KDD 2026 时间序列论文索引
+# KDD 2026 Time-Series Papers
 
-- 当前尚未录入论文
+A curated page for directly browsing paper links and code availability.
+
+## Snapshot
+- Total papers: 0
+- With code links: 0
+- Forecasting-related: 0
+- Foundation-model-related: 0
+
+## Maintainer Notes
+- This page is waiting for the first curated batch.
+
+## Paper List
+
+| Title | Paper | Code | Topic |
+|---|---|---|---|
+| _TBD_ | — | — | waiting for first batch |
