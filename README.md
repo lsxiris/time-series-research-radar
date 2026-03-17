@@ -87,7 +87,6 @@ This is an ongoing maintenance project: manifests, generated pages, and audits a
 - [REPO_STATUS.md](./REPO_STATUS.md)
 - [radar/docs/WORKFLOW.md](./radar/docs/WORKFLOW.md)
 - [radar/docs/SOURCE_POLICY.md](./radar/docs/SOURCE_POLICY.md)
-- [README.zh-CN.md](./README.zh-CN.md) for a Chinese overview
 
 ## Contributing
 
