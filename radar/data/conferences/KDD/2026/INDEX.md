@@ -1,6 +1,6 @@
 # KDD 2026 Time-Series Papers
 
-A curated page for directly browsing paper links and code availability.
+A curated page for directly browsing paper links, code availability, and coarse topic tags.
 
 ## Snapshot
 - Total papers: 0
@@ -15,4 +15,4 @@ A curated page for directly browsing paper links and code availability.
 
 | Title | Paper | Code | Topic |
 |---|---|---|---|
-| _TBD_ | — | — | waiting for first batch |
+| _TBD_ | N/A | N/A | waiting for the first curated batch |
