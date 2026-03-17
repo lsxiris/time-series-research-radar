@@ -30,10 +30,10 @@ This roadmap is organized around a simple goal: move the repository from a usefu
 - [ ] Add manifest schema documentation and stricter validation rules
 - [ ] Add reproducible update playbooks for each supported venue
 
-## Phase 4: OSS Support Readiness
+## Phase 4: Long-Term Sustainability
 
-- [ ] Accumulate 6 to 12 weeks of visible maintenance history
-- [ ] Keep changelog, roadmap, and sample outputs updated over time
+- [ ] Keep conference coverage, changelog entries, and sample outputs updated over time
 - [ ] Demonstrate issue handling and incremental repository improvements
-- [ ] Document AI-assisted maintenance workflows truthfully and clearly
-- [ ] Prepare a concise maintainer-facing application narrative for OSS support programs
+- [ ] Document recurring maintenance workflows clearly
+- [ ] Expand reusable outputs beyond paper tables and single-venue digests
+- [ ] Keep the repository useful as a public research-maintenance resource

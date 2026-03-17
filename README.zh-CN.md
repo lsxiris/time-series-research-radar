@@ -46,7 +46,7 @@
 - `DATA_SOURCES.md`：数据来源与限制
 - `REPO_STATUS.md`：当前仓库状态
 - `radar/docs/MAINTENANCE_PLAN.md`：维护计划
-- `radar/docs/OSS_APPLICATION_PREP.md`：后续申请准备
+- `radar/docs/PROJECT_POSITIONING.md`：项目定位说明
 
 ## 许可证
 MIT

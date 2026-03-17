@@ -28,7 +28,7 @@ Public-facing MVP with repeatable maintenance workflows.
 
 ## Next Milestones
 
-- Keep visible maintenance updates for multiple weeks
+- Keep conference coverage and generated outputs updated over time
 - Grow public sample outputs beyond paper tables
 - Add more code links and source verification passes
-- Prepare the repository for OSS support program applications
+- Strengthen recurring maintenance workflows and contribution paths

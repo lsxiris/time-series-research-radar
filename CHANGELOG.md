@@ -13,6 +13,7 @@ All notable changes to this repository are recorded here.
 
 - Normalized ICLR 2026 structured OpenReview summaries into English
 - Refreshed conference indexes after code-link enrichment
+- Tightened public-facing project language to emphasize ongoing maintenance and project-focused framing
 
 ## 0.5.0 - 2026-03-17
 

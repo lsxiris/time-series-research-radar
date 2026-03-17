@@ -76,7 +76,7 @@ On Windows PowerShell, activate the environment with:
 5. Audit public links and code repositories.
 6. Update the changelog and maintenance notes.
 
-The repository is designed to accumulate real maintenance history rather than a one-time upload.
+This is an ongoing maintenance project: manifests, generated pages, and audits are refreshed incrementally as public sources change.
 
 ## Project Docs
 
