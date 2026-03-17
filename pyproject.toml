@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "time-series-research-radar"
+version = "0.5.0"
+description = "Maintainable public tracking for time-series research papers and conference metadata."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [
+  { name = "Iris Li" }
+]
+dependencies = [
+  "PyYAML>=6.0"
+]
+keywords = ["time-series", "research", "machine-learning", "forecasting", "open-source"]
+
+[tool.setuptools]
+py-modules = []

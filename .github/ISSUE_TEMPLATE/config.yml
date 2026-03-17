@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security report
+    url: https://github.com/lsxiris/time-series-research-radar/security
+    about: Please use private security reporting for vulnerabilities or credential leaks.

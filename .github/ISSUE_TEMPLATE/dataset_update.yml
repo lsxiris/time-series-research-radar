@@ -1,0 +1,30 @@
+name: Dataset or conference update
+description: Request a source-pack update, metadata correction, or new conference batch.
+title: "[Data] "
+labels:
+  - data
+body:
+  - type: input
+    id: venue
+    attributes:
+      label: Venue and year
+      placeholder: ICML 2026
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Public source links
+      description: Link the official proceedings, conference page, or OpenReview collection.
+      placeholder: |
+        https://...
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: Requested update
+      description: Describe the missing papers, incorrect metadata, or source change.
+      placeholder: Add accepted papers and regenerate the conference index.
+    validations:
+      required: true

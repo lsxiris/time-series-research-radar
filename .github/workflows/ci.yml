@@ -1,0 +1,42 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+
+      - name: Regenerate conference indexes
+        run: python scripts/build_all_conference_indexes.py
+
+      - name: Regenerate sample topic map
+        run: python scripts/build_topic_map.py --manifest radar/data/conferences/ICLR/2026/papers_manifest.json --output radar/outputs/maps/iclr-2026-topic-map.md --title "ICLR 2026 Topic Map"
+
+      - name: Regenerate sample digest
+        run: python scripts/generate_digest.py --week 2026-W11 --manifest radar/data/conferences/ICLR/2026/papers_manifest.json --output radar/outputs/digests/2026-W11.md --title "ICLR 2026 Early Signals"
+
+      - name: Validate repository
+        run: python scripts/validate_repository.py
+
+      - name: Run smoke tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Check generated files are committed
+        run: git diff --exit-code

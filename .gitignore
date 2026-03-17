@@ -3,3 +3,9 @@ __pycache__/
 *.pyc
 outputs/**/generated/
 local_papers/
+.pytest_cache/
+.coverage
+build/
+dist/
+*.egg-info/
+.ruff_cache/

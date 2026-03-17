@@ -1,0 +1,36 @@
+name: Bug report
+description: Report a broken workflow, incorrect output, or validation issue.
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What is wrong?
+      placeholder: The generated topic map omits papers with keyword-only labels.
+    validations:
+      required: true
+  - type: input
+    id: path
+    attributes:
+      label: Affected path
+      description: File or script path if known
+      placeholder: scripts/build_topic_map.py
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction
+      description: Steps to reproduce the issue
+      placeholder: |
+        1. Run ...
+        2. Open ...
+        3. Observe ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What should have happened instead?
