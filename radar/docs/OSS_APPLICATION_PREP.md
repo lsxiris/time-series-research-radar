@@ -1,28 +1,27 @@
 # OSS Application Prep
 
-## Repository positioning
-Time Series Research Radar is positioned as a public research-maintenance repository for tracking, structuring, and maintaining time-series paper metadata and public review artifacts across major venues.
+## Repository Positioning
 
-## Public maintenance value
-- reduces repetitive paper collection work
-- keeps conference/year paper packs organized
-- supports researchers who need structured paper tracking rather than ad-hoc bookmarks
-- creates reproducible update workflows using manifests and scripts
+Time-Series Research Radar should be presented as a public maintenance tool for researchers who need structured, reusable tracking of time-series papers across major venues.
 
-## AI-assisted maintenance workflows to document over time
-- metadata normalization
-- conference index generation
-- digest drafting
-- topic clustering drafts
-- maintenance note drafting
-- changelog and release note preparation
+## Stronger Public Narrative
 
-## Evidence to accumulate before application
-- 6–12 weeks of visible maintenance history
-- release notes / changelog entries
-- roadmap evolution
-- issue handling or maintenance notes
-- examples of public outputs generated from the repository
+Prefer wording like:
+
+- "This project helps researchers reduce repetitive literature-tracking work."
+- "This repository turns conference updates into reproducible public artifacts."
+- "This project provides maintainable paper manifests, indexes, and research digests."
+
+Avoid centering the repository on a private personal workflow.
+
+## Evidence Worth Accumulating
+
+- several weeks of visible maintenance history
+- changelog and roadmap updates tied to real repository work
+- issue handling or contribution review
+- sample outputs that demonstrate the repository is usable today
+- honest documentation of AI-assisted maintenance workflows
 
 ## Caution
-Application materials should stay truthful. AI assistance should be described as part of the maintenance workflow, not as fabricated human-only work.
+
+Application materials should stay truthful. AI assistance is part of the maintenance workflow, not something to hide or exaggerate.

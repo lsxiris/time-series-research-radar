@@ -1,9 +1,15 @@
-# KDD 2026 / Time Series / Public Source Pack
+# KDD 2026 Time-Series Pack
 
-这个目录维护 KDD 2026 中与时间序列相关的公开资料层。
+This directory is reserved for the public-source layer of time-series related papers tracked in KDD 2026.
 
-## 当前目标
-- 维护论文清单 manifest
-- 维护 PDF / OpenReview / arXiv 等公开链接
-- 后续补充公开审稿线程（如有）
-- 为 topic clustering / method map / benchmark map 提供输入
+## Planned Contents
+
+- `papers_manifest.json` for tracked papers and public links
+- `INDEX.md` generated from the manifest
+- optional public-source notes for benchmark or track-specific updates
+
+## Maintenance Rules
+
+- Add only public, traceable metadata
+- Keep repository artifacts easy to regenerate
+- Avoid mixing private research notes into this folder

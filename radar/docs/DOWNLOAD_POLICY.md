@@ -1,12 +1,18 @@
 # Download Policy
 
-## 当前策略
-- 仓库默认维护论文元数据、链接、索引与下载脚本
-- 大批量 PDF 不默认直接提交进仓库
-- 用户可在本地按 manifest 批量下载公开 PDF
+## Current Strategy
 
-## 原因
-- 控制仓库体积
-- 保持更新轻量
-- 保留公开资料来源链接
-- 降低后续维护成本
+- The Git repository stores metadata, links, generated indexes, and automation scripts.
+- Bulk PDF downloads are kept local by default.
+- Public PDFs can be downloaded locally from a manifest when needed.
+
+## Why This Policy Exists
+
+- Keep repository size manageable
+- Avoid committing large binary files unnecessarily
+- Preserve the public-source origin of each document
+- Lower long-term maintenance cost
+
+## Local Download Path
+
+Downloaded files should stay under `local_papers/`, which is intentionally excluded from Git tracking.

@@ -1,15 +1,24 @@
 # Source Policy
 
-## 项目边界
-本项目维护的是公开论文资料层，不维护个人研究核心笔记。
+## Repository Boundary
 
-## 当前公开资料层包括
-- 论文标题、会议、年份、论坛链接、PDF 链接
-- OpenReview 审稿与 rebuttal 线程整理
-- 基于公开内容生成的结构化索引、聚类、关键词与地图
+This repository maintains a public-source layer for time-series research tracking. It is not a private notebook and it is not a dumping ground for unpublished ideas.
 
-## 不纳入项目的内容
-- 个人博士主线判断
-- 私有研究路线图
-- 未公开的实验记录
-- 面向个人论文写作的深度内部注释
+## What Belongs Here
+
+- paper titles, venue metadata, and public links
+- public OpenReview threads and structured summaries
+- generated indexes, digests, topic maps, and other reusable public outputs
+- scripts that reproduce or validate repository artifacts
+
+## What Does Not Belong Here
+
+- private dissertation notes
+- personal research roadmaps
+- unpublished experiments
+- non-public review material
+- fabricated metadata or unsupported claims
+
+## Standard
+
+If another contributor cannot trace a record back to a public source, it should not be merged.

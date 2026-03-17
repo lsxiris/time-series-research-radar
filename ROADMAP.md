@@ -1,33 +1,39 @@
-# ROADMAP
+# Roadmap
 
-## Phase 1 — Release-ready MVP
-- [x] Create repository structure
-- [x] Add README / CHANGELOG / ROADMAP
-- [x] Add basic scripts for init / indexing / digest generation
-- [x] Add ICLR 2026 public source pack
-- [x] Add 14 ICLR 2026 OpenReview thread files
-- [x] Add multi-conference scaffolding for ICLR / ICML / NeurIPS / KDD
-- [x] Add public PDF batch download script
-- [x] Add ICML 2025 time-series related paper manifest
-- [x] Add KDD 2025 time-series related paper manifest
-- [x] Regenerate conference indexes
-- [ ] Finish ICML 2025 local PDF download
-- [ ] Add first weekly digest
-- [ ] Add first topic clustering output
-- [ ] Add first method map / benchmark map
+This roadmap is organized around a simple goal: move the repository from a useful personal workflow into a maintainable public research tool.
 
-## Phase 2 — Sustainable maintenance
-- [ ] Add NeurIPS 2025 proceedings when publicly available
-- [ ] Add NeurIPS / ICML / KDD 2026 accepted paper packs when publicly available
-- [ ] Add configurable topic clustering rules
-- [ ] Add rebuttal pattern mining module
-- [ ] Add release cadence and tags
-- [ ] Add issue templates and contribution guide
-- [ ] Add conference update notes and incremental update scripts
+## Phase 1: Public-Facing Foundation
 
-## Phase 3 — OSS support readiness
-- [ ] Accumulate 6–12 weeks of visible updates
-- [ ] Maintain release notes and maintenance logs
-- [ ] Add public usage examples
-- [ ] Prepare OSS support application materials
-- [ ] Document maintainer workflow for AI-assisted public maintenance
+- [x] Create a stable repository structure
+- [x] Add public README, roadmap, changelog, and license
+- [x] Add baseline scripts for indexing, downloads, and digest generation
+- [x] Add ICLR 2026 public-source pack and OpenReview thread summaries
+- [x] Add ICML 2025 and KDD 2025 curated manifests
+- [x] Regenerate conference index pages
+- [x] Add sample digest and topic map outputs
+- [x] Add validation checks, CI, and GitHub community files
+
+## Phase 2: Sustainable Maintenance Loop
+
+- [ ] Add NeurIPS 2025 proceedings once public source paths stabilize
+- [ ] Add curated accepted-paper packs for NeurIPS 2026, ICML 2026, and KDD 2026
+- [ ] Expand topic-map generation with configurable clustering rules
+- [ ] Add richer code-link collection and verification passes
+- [ ] Publish lightweight release tags for visible maintenance milestones
+- [ ] Add issue triage and maintenance-note cadence
+
+## Phase 3: Research Utility Expansion
+
+- [ ] Add method-map and benchmark-map outputs
+- [ ] Add cross-venue digest generation
+- [ ] Add reviewer-pattern mining from public rebuttal threads
+- [ ] Add manifest schema documentation and stricter validation rules
+- [ ] Add reproducible update playbooks for each supported venue
+
+## Phase 4: OSS Support Readiness
+
+- [ ] Accumulate 6 to 12 weeks of visible maintenance history
+- [ ] Keep changelog, roadmap, and sample outputs updated over time
+- [ ] Demonstrate issue handling and incremental repository improvements
+- [ ] Document AI-assisted maintenance workflows truthfully and clearly
+- [ ] Prepare a concise maintainer-facing application narrative for OSS support programs

@@ -1,23 +1,26 @@
 # Maintenance Plan
 
 ## Goal
+
 Maintain a public, structured, and continuously updated repository for time-series paper tracking.
 
-## Short-term maintenance loop
-1. monitor conference public pages
-2. add / update manifests
-3. regenerate indexes
-4. download public PDFs locally when available
-5. add digest / clustering / maps
-6. update changelog
+## Short-Term Loop
 
-## Weekly maintenance targets
+1. Monitor conference sources and proceedings
+2. Add or correct manifests
+3. Regenerate indexes and sample outputs
+4. Validate repository integrity
+5. Update changelog and maintenance notes
+
+## Weekly Targets
+
 - at least one visible repository update
 - one metadata correction or expansion pass
 - one documentation or workflow improvement when no new conference data is available
 
-## Quality rules
+## Quality Rules
+
 - keep links traceable
 - do not fabricate abstracts, reviews, or metadata
-- keep public-source layer separate from private research notes
-- prefer scripts + manifests over manual one-off dumps
+- keep the public-source layer separate from private research notes
+- prefer scripts and manifests over manual one-off dumps

@@ -1,9 +1,15 @@
-# NeurIPS 2026 / Time Series / Public Source Pack
+# NeurIPS 2026 Time-Series Pack
 
-这个目录维护 NeurIPS 2026 中与时间序列相关的公开资料层。
+This directory is reserved for the public-source layer of time-series related papers tracked in NeurIPS 2026.
 
-## 当前目标
-- 维护论文清单 manifest
-- 维护 PDF / OpenReview / arXiv 等公开链接
-- 后续补充公开审稿线程（如有）
-- 为 topic clustering / method map / benchmark map 提供输入
+## Planned Contents
+
+- `papers_manifest.json` for tracked papers and public links
+- `INDEX.md` generated from the manifest
+- optional public rebuttal or discussion summaries when available
+
+## Maintenance Rules
+
+- Keep sources traceable
+- Use English filenames and public-facing text
+- Treat this folder as a reusable public dataset, not a personal note space

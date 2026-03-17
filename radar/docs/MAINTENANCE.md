@@ -1,15 +1,19 @@
 # Maintenance Notes
 
-## 项目维护目标
-- 持续跟踪时间序列论文
-- 输出结构化研究笔记与地图
-- 保持每周可更新
+## Maintainer Goals
 
-## 维护原则
-- 真实记录变更
-- 人工复核重要结论
-- 保留来源链接
-- 不伪造使用情况与影响力
+- Keep conference paper tracking current and traceable
+- Publish reusable outputs rather than personal notes
+- Maintain a visible update cadence over time
 
-## 近期维护动作
-- 2026-03-13：初始化项目骨架与示例数据
+## Maintenance Principles
+
+- Record real changes instead of cosmetic noise
+- Review important conclusions manually
+- Keep source links visible
+- Avoid overstating usage, impact, or project maturity
+
+## Recent Direction
+
+- 2026-03-13: initialized the repository structure and first public data packs
+- 2026-03-17: upgraded the repository into a more maintainable open-source project with CI, validation, and sample outputs

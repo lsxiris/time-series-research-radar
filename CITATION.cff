@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: Time-Series Research Radar
+message: If this repository helps your research workflow, please cite it using the metadata below.
+type: software
+authors:
+  - family-names: Li
+    given-names: Iris
+repository-code: https://github.com/lsxiris/time-series-research-radar
+license: MIT
+version: 0.5.0
+date-released: 2026-03-17
+abstract: >
+  A maintainable public repository for tracking time-series research papers,
+  conference metadata, and lightweight research digests across major ML venues.
+keywords:
+  - time-series
+  - machine-learning
+  - research-maintenance
+  - literature-tracking
