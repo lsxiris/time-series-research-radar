@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import importlib.util
 import json
+import sys
 import unittest
 from pathlib import Path
 
@@ -13,6 +14,7 @@ def load_module(name: str, relative_path: str):
     spec = importlib.util.spec_from_file_location(name, path)
     module = importlib.util.module_from_spec(spec)
     assert spec.loader is not None
+    sys.modules[name] = module
     spec.loader.exec_module(module)
     return module
 
@@ -23,6 +25,11 @@ class RepositoryContractTests(unittest.TestCase):
         cls.index_module = load_module("build_all_conference_indexes", "scripts/build_all_conference_indexes.py")
         cls.digest_module = load_module("generate_digest", "scripts/generate_digest.py")
         cls.map_module = load_module("build_topic_map", "scripts/build_topic_map.py")
+        cls.audit_module = load_module("audit_links", "scripts/audit_links.py")
+        cls.normalize_module = load_module(
+            "normalize_openreview_structured_summaries",
+            "scripts/normalize_openreview_structured_summaries.py",
+        )
 
     def test_top_level_docs_exist(self) -> None:
         for relative_path in [
@@ -86,6 +93,25 @@ class RepositoryContractTests(unittest.TestCase):
         )
         self.assertIn("| Cluster | Signal | Representative Papers |", output)
         self.assertIn("Aurora", output)
+
+    def test_audit_normalizes_bare_doi_urls(self) -> None:
+        self.assertEqual(
+            self.audit_module.normalize_url("10.1145/3711896.3737442"),
+            "https://doi.org/10.1145/3711896.3737442",
+        )
+
+    def test_structured_summary_normalization_rewrites_labels(self) -> None:
+        sample = (
+            "- 平均review分数（公开review）: 6.0\n"
+            "- 分数范围: 4.0-8.0\n"
+            "- 补实验/补指标: 1\n"
+            "- 暂未自动抓到显式 score change 记录；当前保留公开评审分数区间 `4.0-8.0` 作为 rebuttal 前窗口。"
+        )
+        normalized = self.normalize_module.normalize_text(sample)
+        self.assertIn("Average public review score", normalized)
+        self.assertIn("Score range", normalized)
+        self.assertIn("Add experiments or metrics", normalized)
+        self.assertIn("No explicit score-change record was detected automatically", normalized)
 
 
 if __name__ == "__main__":

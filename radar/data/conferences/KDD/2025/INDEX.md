@@ -41,7 +41,7 @@ A curated page for directly browsing paper links, code availability, and coarse 
 | DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting | [Paper](https://doi.org/10.1145/3690624.3709325) | N/A | forecasting, time-series |
 | Dynamic Localisation of Spatial-Temporal Graph Neural Network | [Paper](https://doi.org/10.1145/3690624.3709331) | N/A | other-time-series |
 | DynST: Dynamic Sparse Training for Resource-Constrained Spatio-Temporal Forecasting | [Paper](https://doi.org/10.1145/3690624.3709391) | N/A | forecasting, spatiotemporal |
-| EBES: Easy Benchmarking for Event Sequences | [Paper](10.1145/3711896.3737428) | N/A | benchmark |
+| EBES: Easy Benchmarking for Event Sequences | [Paper](https://doi.org/10.1145/3711896.3737428) | N/A | benchmark |
 | Efficient Large-Scale Traffic Forecasting with Transformers: A Spatial Data Management Perspective | [Paper](https://doi.org/10.1145/3690624.3709177) | N/A | forecasting, spatiotemporal |
 | Enhancer: A Distribution-Aware Framework with Temporal-Relational Meta-Learning for Stock Prediction | [Paper](https://doi.org/10.1145/3711896.3736934) | N/A | finance |
 | Enhancing Microservices Anomaly Detection via Multimodal Data Fusion in the Wavelet Domain and Spatiotemporal Graph-based Diffusion Probabilistic Model | [Paper](https://doi.org/10.1145/3711896.3736938) | N/A | anomaly-detection, spatiotemporal |
@@ -104,7 +104,7 @@ A curated page for directly browsing paper links, code availability, and coarse 
 | Toast: Task-Oriented Multi-dimensional Augmentation for Spatio-Temporal Trajectory Data | [Paper](https://doi.org/10.1145/3711896.3737158) | N/A | spatiotemporal |
 | Towards Trajectory Anomaly Detection: a Fine-Grained and Noise-Resilient Framework | [Paper](https://doi.org/10.1145/3711896.3737164) | N/A | anomaly-detection |
 | Track and Tweak: Monitoring and Improving Group Fairness for Temporal Graph Neural Networks in Real Time | [Paper](https://doi.org/10.1145/3711896.3737165) | N/A | other-time-series |
-| TSFM-Bench: A Comprehensive and Unified Benchmark of Foundation Models for Time Series Forecasting | [Paper](10.1145/3711896.3737442) | N/A | forecasting, time-series, benchmark |
+| TSFM-Bench: A Comprehensive and Unified Benchmark of Foundation Models for Time Series Forecasting | [Paper](https://doi.org/10.1145/3711896.3737442) | N/A | forecasting, time-series, benchmark |
 | TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection | [Paper](https://doi.org/10.1145/3690624.3709266) | N/A | time-series, anomaly-detection |
 | Understanding Why Large Language Models Can Be Ineffective in Time Series Analysis: The Impact of Modality Alignment | [Paper](https://doi.org/10.1145/3711896.3737169) | N/A | time-series |
 | Unleashing The Power of Pre-Trained Language Models for Irregularly Sampled Time Series | [Paper](https://doi.org/10.1145/3711896.3737171) | N/A | time-series |

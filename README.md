@@ -23,6 +23,7 @@ The repository is intentionally maintained as a public-source layer rather than 
   - [Sample weekly digest](./radar/outputs/digests/2026-W11.md)
   - [Sample topic map](./radar/outputs/maps/iclr-2026-topic-map.md)
   - [Sample paper index](./radar/outputs/paper_index.md)
+  - [Latest link audit](./radar/outputs/audits/2026-03-18-link-audit.md)
 
 ## Quick Start
 
@@ -33,6 +34,8 @@ python -m pip install -r requirements.txt
 python scripts/build_all_conference_indexes.py
 python scripts/build_topic_map.py --manifest radar/data/conferences/ICLR/2026/papers_manifest.json --output radar/outputs/maps/iclr-2026-topic-map.md --title "ICLR 2026 Topic Map"
 python scripts/generate_digest.py --week 2026-W11 --manifest radar/data/conferences/ICLR/2026/papers_manifest.json --output radar/outputs/digests/2026-W11.md --title "ICLR 2026 Early Signals"
+python scripts/normalize_openreview_structured_summaries.py
+python scripts/audit_links.py --output radar/outputs/audits/2026-03-18-link-audit.md
 python scripts/validate_repository.py
 ```
 
@@ -70,7 +73,8 @@ On Windows PowerShell, activate the environment with:
 2. Add or correct structured manifests.
 3. Regenerate conference indexes and sample outputs.
 4. Validate repository integrity.
-5. Update the changelog and maintenance notes.
+5. Audit public links and code repositories.
+6. Update the changelog and maintenance notes.
 
 The repository is designed to accumulate real maintenance history rather than a one-time upload.
 

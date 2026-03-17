@@ -1,11 +1,11 @@
-# DistDF: Time-series Forecasting Needs Joint-distribution Wasserstein Alignment — OpenReview Structured Summary
+# DistDF: Time-series Forecasting Needs Joint-distribution Wasserstein Alignment - OpenReview Structured Summary
 
 - OpenReview ID: `VrdLwUmzBy`
 - Forum: https://openreview.net/forum?id=VrdLwUmzBy
 - PDF: https://openreview.net/pdf?id=VrdLwUmzBy
 - Venue status: ICLR 2026 Poster
-- 平均review分数（公开review）: 6.0
-- 分数范围: 4.0-8.0
+- Average public review score: 6.0
+- Score range: 4.0-8.0
 
 ## reviewer concerns
 - experimental adequacy: 3
@@ -16,11 +16,11 @@
 - robustness/hyperparameter: 1
 
 ## author responses
-- 补实验/补指标: 1
-- 补解释/补理论: 1
-- 补相关工作: 1
-- 收缩主张/承认局限: 1
-- 改表述/改图示: 1
+- Add experiments or metrics: 1
+- Add explanation or theory: 1
+- Add related work: 1
+- Narrow claims or acknowledge limitations: 1
+- Revise wording or figures: 1
 
 ## decision / meta review
 - Paper Decision
@@ -30,4 +30,4 @@
 
 
 ## score change
-- 暂未自动抓到显式 score change 记录；当前保留公开评审分数区间 `4.0-8.0` 作为 rebuttal 前窗口。
+- No explicit score-change record was detected automatically; the current public review score range `4.0-8.0` is kept as the pre-rebuttal window.

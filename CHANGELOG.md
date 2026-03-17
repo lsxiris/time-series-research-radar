@@ -2,6 +2,18 @@
 
 All notable changes to this repository are recorded here.
 
+## 0.5.1 - 2026-03-18
+
+### Added
+
+- Link-audit script and generated audit report for tracked paper and code URLs
+- Verified code links for the current ICLR 2026 public-source pack where public repositories were available
+
+### Changed
+
+- Normalized ICLR 2026 structured OpenReview summaries into English
+- Refreshed conference indexes after code-link enrichment
+
 ## 0.5.0 - 2026-03-17
 
 ### Added
