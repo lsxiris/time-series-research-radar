@@ -67,6 +67,12 @@ On Windows PowerShell, activate the environment with:
 - KDD 2025 manifest with 95 time-series related papers across multiple tracks
 - Scaffolding for NeurIPS 2025, NeurIPS 2026, ICML 2026, and KDD 2026
 
+## Data Quality Snapshot
+
+- Latest link audit: 733 unique URLs checked, with 0 hard failures in the current manifests
+- Soft-blocked URLs in the audit are currently concentrated on OpenReview forum pages and DOI endpoints, which often return anti-bot `403` responses to scripted checks
+- Verified public code repositories are currently linked for 7 papers in the ICLR 2026 source pack
+
 ## Maintenance Workflow
 
 1. Monitor public conference sources.
@@ -76,7 +82,7 @@ On Windows PowerShell, activate the environment with:
 5. Audit public links and code repositories.
 6. Update the changelog and maintenance notes.
 
-This is an ongoing maintenance project: manifests, generated pages, and audits are refreshed incrementally as public sources change.
+Conference manifests, generated pages, and audit artifacts are updated incrementally as public sources evolve.
 
 ## Project Docs
 
@@ -86,6 +92,7 @@ This is an ongoing maintenance project: manifests, generated pages, and audits a
 - [DATA_SOURCES.md](./DATA_SOURCES.md)
 - [REPO_STATUS.md](./REPO_STATUS.md)
 - [radar/docs/WORKFLOW.md](./radar/docs/WORKFLOW.md)
+- [radar/docs/PROJECT_POSITIONING.md](./radar/docs/PROJECT_POSITIONING.md)
 - [radar/docs/SOURCE_POLICY.md](./radar/docs/SOURCE_POLICY.md)
 
 ## Contributing
