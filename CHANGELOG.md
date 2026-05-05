@@ -2,6 +2,19 @@
 
 All notable changes to this repository are recorded here.
 
+## 0.5.2 - 2026-05-05
+
+### Added
+
+- Fresh weekly digest sample at `radar/outputs/digests/2026-W19.md` covering ICLR 2026 mid-cycle highlights
+- New link audit artifact at `radar/outputs/audits/2026-05-05-link-audit.md`
+
+### Changed
+
+- Regenerated all seven conference INDEX.md files (ICLR 2026, ICML 2025/2026, KDD 2025/2026, NeurIPS 2025/2026) from versioned manifests
+- Refreshed link-audit data: 733 unique URLs checked; 14 OpenReview PDF endpoints currently returning HTTP 429 (rate-limited, not broken — matched forum URLs all reach 200), recorded in the new audit artifact
+- Verified repository contract via `pytest tests/` (7/7 passing) and `scripts/validate_repository.py` (7 manifests + required files validated)
+
 ## 0.5.1 - 2026-03-18
 
 ### Added

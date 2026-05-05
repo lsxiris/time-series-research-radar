@@ -1,5 +1,15 @@
 # Repository Status
 
+## Last Maintenance Pass
+
+- Date: 2026-05-05
+- Tests: 7/7 passing (`pytest tests/`)
+- Validation: 7 manifests and required files validated
+- Indexes regenerated: ICLR 2026, ICML 2025, ICML 2026, KDD 2025, KDD 2026, NeurIPS 2025, NeurIPS 2026
+- Audit: 733 URLs checked, 14 rate-limited PDF endpoints flagged; full report at `radar/outputs/audits/2026-05-05-link-audit.md`
+- Digest: new sample at `radar/outputs/digests/2026-W19.md`
+- Full agent maintenance log: `radar/docs/maintenance-log/2026-05-05.md`
+
 ## Current Stage
 
 Public-facing MVP with repeatable maintenance workflows.

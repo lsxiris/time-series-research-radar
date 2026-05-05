@@ -69,7 +69,7 @@ On Windows PowerShell, activate the environment with:
 
 ## Data Quality Snapshot
 
-- Latest link audit: 733 unique URLs checked, with 0 hard failures in the current manifests
+- Latest link audit (2026-05-05): 733 unique URLs checked; 627 returned HTTP 200-399; 92 soft-blocked; 14 OpenReview PDF endpoints rate-limited with HTTP 429 while their matched forum URLs still reach HTTP 200
 - Soft-blocked URLs in the audit are currently concentrated on OpenReview forum pages and DOI endpoints, which often return anti-bot `403` responses to scripted checks
 - Verified public code repositories are currently linked for 7 papers in the ICLR 2026 source pack
 
